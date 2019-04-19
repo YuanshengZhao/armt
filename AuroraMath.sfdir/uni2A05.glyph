@@ -1,0 +1,20 @@
+StartChar: uni2A05
+Encoding: 10757 10757 315
+Width: 853
+Flags: HMW
+HStem: 449 51G<133 720 133 133>
+VStem: 82 51<-380 449 -380 500> 720 51G<-380 449 449 449>
+LayerCount: 2
+Fore
+SplineSet
+771 -380 m 1
+ 720 -380 l 1
+ 720 449 l 1
+ 133 449 l 1
+ 133 -380 l 1
+ 82 -380 l 1
+ 82 500 l 1
+ 771 500 l 1
+ 771 -380 l 1
+EndSplineSet
+EndChar

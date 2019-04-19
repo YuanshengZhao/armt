@@ -1,0 +1,15 @@
+StartChar: bullet
+Encoding: 8226 8226 906
+Width: 350
+Flags: W
+HStem: 446 20<136.5 212.5>
+LayerCount: 2
+Fore
+SplineSet
+174 466 m 0
+ 251 466 310 406 310 329 c 0
+ 310 257 249 196 175 196 c 0
+ 100 196 40 256 40 332 c 0
+ 40 406 99 466 174 466 c 0
+EndSplineSet
+EndChar

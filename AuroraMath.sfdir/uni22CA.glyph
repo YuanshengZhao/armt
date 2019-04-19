@@ -1,0 +1,23 @@
+StartChar: uni22CA
+Encoding: 8906 8906 286
+Width: 602
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+540 65 m 1
+ 300 224 l 1
+ 62 65 l 1
+ 62 132 l 1
+ 251 257 l 1
+ 62 381 l 1
+ 62 446 l 1
+ 300 289 l 1
+ 540 446 l 1
+ 540 65 l 1
+484 168 m 1
+ 484 346 l 1
+ 350 257 l 1
+ 484 168 l 1
+EndSplineSet
+EndChar

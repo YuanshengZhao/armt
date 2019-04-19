@@ -1,0 +1,24 @@
+StartChar: arrowdblleft
+Encoding: 8656 8656 182
+Width: 964
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+902 127 m 1
+ 255 127 l 1
+ 331 34 l 1
+ 303 5 l 1
+ 62 257 l 1
+ 303 510 l 1
+ 331 479 l 1
+ 255 386 l 1
+ 902 386 l 1
+ 902 330 l 1
+ 208 330 l 1
+ 147 256 l 1
+ 207 183 l 1
+ 902 183 l 1
+ 902 127 l 1
+EndSplineSet
+EndChar

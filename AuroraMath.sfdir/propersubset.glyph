@@ -1,0 +1,20 @@
+StartChar: propersubset
+Encoding: 8834 8834 251
+Width: 636
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+584 8 m 1
+ 298 8 l 2
+ 159 8 52 124 52 257 c 0
+ 52 390 159 506 298 506 c 2
+ 584 506 l 1
+ 584 456 l 1
+ 294 456 l 2
+ 185 456 102 363 102 257 c 0
+ 102 145 197 58 294 58 c 2
+ 584 58 l 1
+ 584 8 l 1
+EndSplineSet
+EndChar

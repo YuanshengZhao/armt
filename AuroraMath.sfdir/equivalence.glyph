@@ -1,0 +1,24 @@
+StartChar: equivalence
+Encoding: 8801 8801 234
+Width: 636
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+574 399 m 1
+ 62 399 l 1
+ 62 455 l 1
+ 574 455 l 1
+ 574 399 l 1
+574 229 m 1
+ 62 229 l 1
+ 62 285 l 1
+ 574 285 l 1
+ 574 229 l 1
+574 59 m 1
+ 62 59 l 1
+ 62 115 l 1
+ 574 115 l 1
+ 574 59 l 1
+EndSplineSet
+EndChar

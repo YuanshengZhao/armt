@@ -1,0 +1,27 @@
+StartChar: four
+Encoding: 52 52 697
+Width: 500
+Flags: W
+HStem: 0 20 167 64<52 292 12 12 370 472> 656 20<326 370 370 370>
+VStem: 292 78<231 574 574 574> 293 77<0 167 0 167>
+LayerCount: 2
+Fore
+SplineSet
+472 231 m 1xe8
+ 472 167 l 1
+ 370 167 l 1
+ 370 0 l 1xf0
+ 293 0 l 1
+ 293 167 l 1
+ 12 167 l 1
+ 12 231 l 1
+ 326 676 l 1
+ 370 676 l 1
+ 370 231 l 1
+ 472 231 l 1xe8
+292 231 m 1
+ 292 574 l 1
+ 52 231 l 1
+ 292 231 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,31 @@
+StartChar: uni2A87
+Encoding: 10887 10887 1460
+Width: 636
+Flags: W
+HStem: -58 53<376 574>
+LayerCount: 2
+Fore
+SplineSet
+574 72 m 1
+ 62 312 l 1
+ 62 332 l 1
+ 574 574 l 1
+ 574 518 l 1
+ 158 323 l 1
+ 574 128 l 1
+ 574 72 l 1
+574 -58 m 1
+ 327 -57 l 1
+ 281 -108 l 1
+ 213 -108 l 1
+ 260 -58 l 1
+ 62 -58 l 1
+ 62 -6 l 1
+ 309 -6 l 1
+ 355 45 l 1
+ 423 45 l 1
+ 376 -5 l 1
+ 574 -5 l 1
+ 574 -58 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,19 @@
+StartChar: uni23AD
+Encoding: 9133 9133 1398
+Width: 552
+Flags: W
+VStem: 231 90G<403 460 460 510 289 510>
+LayerCount: 2
+Fore
+SplineSet
+321 460 m 2
+ 321 118 252 -71 83 -161 c 0
+ 79 -163 63 -171 54 -171 c 0
+ 50 -171 48 -169 48 -166 c 0
+ 48 -158 65 -147 74 -140 c 0
+ 224 -29 231 219 231 403 c 2
+ 231 510 l 1
+ 321 510 l 1
+ 321 460 l 2
+EndSplineSet
+EndChar

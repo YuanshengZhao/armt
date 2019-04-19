@@ -1,0 +1,26 @@
+StartChar: Tau
+Encoding: 932 932 678
+Width: 506
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+598 492 m 1
+ 574 492 l 1
+ 551 602 529 620 415 620 c 2
+ 361 620 l 1
+ 361 109 l 2
+ 361 36 375 23 457 19 c 1
+ 457 0 l 1
+ 165 0 l 1
+ 165 19 l 1
+ 248 24 259 35 259 120 c 2
+ 259 620 l 1
+ 205 620 l 2
+ 93 620 70 602 46 492 c 1
+ 22 492 l 1
+ 28 662 l 1
+ 592 662 l 1
+ 598 492 l 1
+EndSplineSet
+EndChar

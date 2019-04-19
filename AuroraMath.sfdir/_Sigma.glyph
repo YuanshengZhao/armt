@@ -1,0 +1,26 @@
+StartChar: Sigma
+Encoding: 931 931 84
+Width: 582
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+556 200 m 1
+ 528 0 l 1
+ 16 0 l 1
+ 16 18 l 1
+ 271 318 l 1
+ 16 645 l 1
+ 16 662 l 1
+ 512 662 l 1
+ 525 496 l 1
+ 507 496 l 1
+ 501 585 472 621 381 621 c 2
+ 155 621 l 1
+ 357 362 l 1
+ 127 91 l 1
+ 379 91 l 2
+ 470 91 515 114 538 205 c 1
+ 556 200 l 1
+EndSplineSet
+EndChar

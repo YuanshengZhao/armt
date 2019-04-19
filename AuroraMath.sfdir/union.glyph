@@ -1,0 +1,20 @@
+StartChar: union
+Encoding: 8746 8746 212
+Width: 654
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+592 264 m 2
+ 592 115 470 0 328 0 c 0
+ 186 0 62 115 62 264 c 2
+ 62 573 l 1
+ 113 573 l 1
+ 113 260 l 2
+ 113 141 212 51 327 51 c 0
+ 448 51 541 154 541 260 c 2
+ 541 573 l 1
+ 592 573 l 1
+ 592 264 l 2
+EndSplineSet
+EndChar

@@ -1,0 +1,18 @@
+StartChar: NameMe.1114138
+Encoding: 1114143 -1 1358
+Width: 371
+Flags: W
+HStem: 496 60G<148 337 148 148>
+VStem: 88 60<-898 496 -898 556>
+LayerCount: 2
+Fore
+SplineSet
+337 496 m 1
+ 148 496 l 1
+ 148 -898 l 1
+ 88 -898 l 1
+ 88 556 l 1
+ 337 556 l 1
+ 337 496 l 1
+EndSplineSet
+EndChar

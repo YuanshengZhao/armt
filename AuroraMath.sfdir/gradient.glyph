@@ -1,0 +1,18 @@
+StartChar: gradient
+Encoding: 8711 8711 192
+Width: 664
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+629 676 m 1
+ 346 0 l 1
+ 326 0 l 1
+ 31 676 l 1
+ 629 676 l 1
+546 589 m 1
+ 177 589 l 1
+ 362 145 l 1
+ 546 589 l 1
+EndSplineSet
+EndChar

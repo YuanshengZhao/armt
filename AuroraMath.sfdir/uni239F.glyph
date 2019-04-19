@@ -1,0 +1,16 @@
+StartChar: uni239F
+Encoding: 9119 9119 1384
+Width: 400
+Flags: W
+HStem: 201 309<256 350 256 350>
+VStem: 256 94<201 510>
+LayerCount: 2
+Fore
+SplineSet
+350 201 m 1
+ 256 201 l 1
+ 256 510 l 1
+ 350 510 l 1
+ 350 201 l 1
+EndSplineSet
+EndChar

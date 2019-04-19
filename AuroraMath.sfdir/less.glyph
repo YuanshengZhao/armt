@@ -1,0 +1,18 @@
+StartChar: less
+Encoding: 60 60 324
+Width: 636
+Flags: HMW
+TopAccentHorizontal: 477
+LayerCount: 2
+Fore
+SplineSet
+574 6 m 1
+ 62 247 l 1
+ 62 267 l 1
+ 574 508 l 1
+ 574 452 l 1
+ 158 257 l 1
+ 574 62 l 1
+ 574 6 l 1
+EndSplineSet
+EndChar

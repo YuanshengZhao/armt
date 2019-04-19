@@ -1,0 +1,19 @@
+StartChar: uni23B7
+Encoding: 9143 9143 1418
+Width: 939
+Flags: W
+VStem: 645 56G<-1900 510>
+LayerCount: 2
+Fore
+SplineSet
+701 -2460 m 1
+ 197 -965 l 1
+ 71 -1011 l 1
+ 60 -988 l 1
+ 301 -865 l 1
+ 645 -1900 l 1
+ 645 510 l 1
+ 701 510 l 1
+ 701 -2460 l 1
+EndSplineSet
+EndChar

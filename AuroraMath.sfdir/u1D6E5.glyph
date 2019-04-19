@@ -1,0 +1,18 @@
+StartChar: u1D6E5
+Encoding: 120549 120549 626
+Width: 587
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+511 677 m 1
+ 461 0 l 1
+ -43 0 l 1
+ 495 677 l 1
+ 511 677 l 1
+419 528 m 1
+ 27 33 l 1
+ 380 33 l 1
+ 419 528 l 1
+EndSplineSet
+EndChar

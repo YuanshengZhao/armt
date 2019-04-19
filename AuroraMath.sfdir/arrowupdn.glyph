@@ -1,0 +1,24 @@
+StartChar: arrowupdn
+Encoding: 8597 8597 169
+Width: 499
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+454 23 m 1
+ 250 -173 l 1
+ 45 23 l 1
+ 78 54 l 1
+ 224 -67 l 1
+ 224 580 l 1
+ 78 460 l 1
+ 45 491 l 1
+ 249 687 l 1
+ 454 491 l 1
+ 422 460 l 1
+ 275 580 l 1
+ 275 -67 l 1
+ 422 54 l 1
+ 454 23 l 1
+EndSplineSet
+EndChar

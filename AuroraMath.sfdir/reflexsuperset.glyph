@@ -1,0 +1,25 @@
+StartChar: reflexsuperset
+Encoding: 8839 8839 254
+Width: 636
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+584 323 m 0
+ 584 190 477 73 338 73 c 2
+ 52 73 l 1
+ 52 123 l 1
+ 342 123 l 2
+ 439 123 534 210 534 322 c 0
+ 534 428 451 521 342 521 c 2
+ 52 521 l 1
+ 52 572 l 1
+ 338 572 l 2
+ 477 572 584 456 584 323 c 0
+559 -58 m 1
+ 52 -58 l 1
+ 52 -5 l 1
+ 559 -5 l 1
+ 559 -58 l 1
+EndSplineSet
+EndChar

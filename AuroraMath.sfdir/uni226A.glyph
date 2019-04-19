@@ -1,0 +1,25 @@
+StartChar: uni226A
+Encoding: 8810 8810 239
+Width: 918
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+866 5 m 1
+ 349 247 l 1
+ 349 267 l 1
+ 866 508 l 1
+ 866 452 l 1
+ 446 257 l 1
+ 866 61 l 1
+ 866 5 l 1
+569 5 m 1
+ 52 247 l 1
+ 52 267 l 1
+ 569 508 l 1
+ 569 452 l 1
+ 149 257 l 1
+ 569 61 l 1
+ 569 5 l 1
+EndSplineSet
+EndChar

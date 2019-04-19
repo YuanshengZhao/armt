@@ -1,0 +1,24 @@
+StartChar: existential
+Encoding: 8707 8707 189
+Width: 587
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+543 0 m 1
+ 44 0 l 1
+ 44 37 l 1
+ 412 37 l 2
+ 430 37 445 52 445 87 c 2
+ 445 328 l 1
+ 129 328 l 1
+ 129 365 l 1
+ 445 365 l 1
+ 445 585 l 2
+ 445 610 426 625 400 625 c 2
+ 54 625 l 1
+ 54 662 l 1
+ 543 662 l 1
+ 543 0 l 1
+EndSplineSet
+EndChar

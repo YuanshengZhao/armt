@@ -1,0 +1,30 @@
+StartChar: L
+Encoding: 76 76 352
+Width: 611
+Flags: MW
+ItalicCorrection: 29
+TopAccentHorizontal: 169
+HStem: 0 19<12 550 12 12> 0 39<287 354 354 395.5> 643 19<12 294 12 294>
+VStem: 99 102<109 553>
+LayerCount: 2
+Fore
+SplineSet
+573 174 m 1x70
+ 598 174 l 1
+ 550 0 l 1
+ 12 0 l 1x50
+ 12 19 l 1x90
+ 85 24 99 39 99 109 c 2
+ 99 553 l 2
+ 99 623 86 637 12 643 c 1
+ 12 662 l 1
+ 294 662 l 1
+ 294 643 l 1
+ 215 638 201 624 201 553 c 2
+ 201 80 l 2
+ 201 45 214 39 287 39 c 2
+ 354 39 l 2
+ 437 39 492 57 527 96 c 0
+ 542 113 556 136 573 174 c 1x70
+EndSplineSet
+EndChar

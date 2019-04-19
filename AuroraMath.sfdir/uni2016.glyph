@@ -1,0 +1,19 @@
+StartChar: uni2016
+Encoding: 8214 8214 152
+Width: 400
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+328 -163 m 1
+ 272 -163 l 1
+ 272 677 l 1
+ 328 677 l 1
+ 328 -163 l 1
+128 -163 m 1
+ 72 -163 l 1
+ 72 677 l 1
+ 128 677 l 1
+ 128 -163 l 1
+EndSplineSet
+EndChar

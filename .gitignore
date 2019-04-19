@@ -1,0 +1,11 @@
+/base35
+/freefont*
+/newtx
+/txfonts
+/temp
+
+*.otf
+*.pdf
+*.ipynb_c*
+*.log
+*.aux

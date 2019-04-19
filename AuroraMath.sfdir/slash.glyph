@@ -1,0 +1,16 @@
+StartChar: slash
+Encoding: 47 47 323
+Width: 181
+Flags: HMW
+ItalicCorrection: 143
+TopAccentHorizontal: 287
+LayerCount: 2
+Fore
+SplineSet
+289 678 m 1
+ -56 -161 l 1
+ -108 -161 l 1
+ 237 678 l 1
+ 289 678 l 1
+EndSplineSet
+EndChar

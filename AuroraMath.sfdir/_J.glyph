@@ -1,0 +1,27 @@
+StartChar: J
+Encoding: 74 74 350
+Width: 389
+Flags: MW
+ItalicCorrection: 98
+TopAccentHorizontal: 232
+HStem: -14 38<131 151 131 163> 643 19<83 370 83 370>
+VStem: 176 102<120.5 183 183 553>
+LayerCount: 2
+Fore
+SplineSet
+278 553 m 2
+ 278 183 l 2
+ 278 58 217 -14 109 -14 c 0
+ 51 -14 10 16 10 58 c 0
+ 10 85 32 108 59 108 c 0
+ 85 108 101 92 111 57 c 0
+ 118 32 124 24 138 24 c 0
+ 164 24 176 45 176 90 c 2
+ 176 553 l 2
+ 176 626 165 637 83 643 c 1
+ 83 662 l 1
+ 370 662 l 1
+ 370 643 l 1
+ 289 637 278 626 278 553 c 2
+EndSplineSet
+EndChar

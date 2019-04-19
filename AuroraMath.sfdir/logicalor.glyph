@@ -1,0 +1,17 @@
+StartChar: logicalor
+Encoding: 8744 8744 210
+Width: 654
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+592 556 m 1
+ 336 0 l 1
+ 319 0 l 1
+ 62 556 l 1
+ 119 556 l 1
+ 328 100 l 1
+ 535 556 l 1
+ 592 556 l 1
+EndSplineSet
+EndChar

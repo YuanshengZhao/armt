@@ -1,0 +1,20 @@
+StartChar: intersection
+Encoding: 8745 8745 211
+Width: 654
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+592 0 m 1
+ 541 0 l 1
+ 541 313 l 2
+ 541 419 448 522 327 522 c 0
+ 212 522 113 432 113 313 c 2
+ 113 0 l 1
+ 62 0 l 1
+ 62 309 l 2
+ 62 458 186 573 328 573 c 0
+ 470 573 592 458 592 309 c 2
+ 592 0 l 1
+EndSplineSet
+EndChar
