@@ -1,5 +1,6 @@
 StartChar: B
-Encoding: 66 66 340
+Encoding: 66 66 320
+AltUni2: 000392.ffffffff.0
 Width: 660
 Flags: MW
 ItalicCorrection: 6

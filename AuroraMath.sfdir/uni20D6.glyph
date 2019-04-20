@@ -1,20 +1,20 @@
 StartChar: uni20D6
-Encoding: 8406 8406 1626
+Encoding: 8406 8406 1605
 Width: 486
 VWidth: 1089
 Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-25 689 m 1
- 193 834 l 1
- 212 810 l 1
- 114 709 l 1
- 449 709 l 1
- 440 669 l 1
- 106 669 l 1
- 160 569 l 1
- 131 545 l 1
- 25 689 l 1
+20 689 m 5
+ 188 834 l 5
+ 207 810 l 5
+ 109 709 l 5
+ 444 709 l 5
+ 435 669 l 5
+ 101 669 l 5
+ 155 569 l 5
+ 126 545 l 5
+ 20 689 l 5
 EndSplineSet
 EndChar

@@ -1,5 +1,6 @@
 StartChar: O
-Encoding: 79 79 353
+Encoding: 79 79 333
+AltUni2: 00039f.ffffffff.0
 Width: 673
 Flags: MW
 ItalicCorrection: 48

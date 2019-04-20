@@ -1,5 +1,6 @@
 StartChar: N
-Encoding: 78 78 352
+Encoding: 78 78 332
+AltUni2: 00039d.ffffffff.0
 Width: 640
 Flags: MW
 ItalicCorrection: 81
