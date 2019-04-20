@@ -1,0 +1,24 @@
+StartChar: summation.dp
+Encoding: 1114227 -1 1461
+Width: 1323
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+1241 -602 m 1
+ 1221 -1040 l 1
+ 43 -1040 l 1
+ 652 -268 l 1
+ 117 500 l 1
+ 1168 500 l 1
+ 1178 153 l 1
+ 1156 153 l 1
+ 1119 375 1050 448 922 448 c 2
+ 292 448 l 1
+ 758 -238 l 1
+ 212 -937 l 1
+ 977 -937 l 2
+ 1099 -937 1181 -821 1216 -602 c 1
+ 1241 -602 l 1
+EndSplineSet
+EndChar

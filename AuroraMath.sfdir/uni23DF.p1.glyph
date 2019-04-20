@@ -1,0 +1,19 @@
+StartChar: uni23DF.p1
+Encoding: 1114240 -1 1510
+Width: 622
+VWidth: 100
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+627 -400 m 1
+ 626 -400 l 2
+ 284 -400 95 -331 5 -162 c 0
+ 3 -158 -5 -142 -5 -133 c 0
+ -5 -129 -3 -127 0 -127 c 4
+ 8 -127 19 -144 26 -153 c 0
+ 137 -303 385 -310 569 -310 c 2
+ 627 -310 l 1
+ 627 -400 l 1
+EndSplineSet
+EndChar

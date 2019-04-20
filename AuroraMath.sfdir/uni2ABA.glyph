@@ -1,8 +1,7 @@
 StartChar: uni2ABA
-Encoding: 10938 10938 1457
+Encoding: 10938 10938 1427
 Width: 636
-Flags: W
-HStem: -178 51<423.5 485 423.5 490.5> -26 51<441.5 485.5 441.5 490.5> 83 52<157 224>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

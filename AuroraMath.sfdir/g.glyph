@@ -1,11 +1,8 @@
 StartChar: g
-Encoding: 103 103 373
+Encoding: 103 103 371
 Width: 500
 Flags: MW
-ItalicCorrection: 7
 TopAccentHorizontal: 288
-HStem: -218 57<200 238.5> -2 20 149 25<247 268.5> 388 39<393 470 393 470 387 470> 432 28<203 241.5>
-VStem: 28 70<-110 -102.5> 329 77<279 284.5> 433 28<-68 -46>
 LayerCount: 2
 Fore
 SplineSet

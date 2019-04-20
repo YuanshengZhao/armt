@@ -1,8 +1,7 @@
 StartChar: bullet
-Encoding: 8226 8226 906
+Encoding: 8226 8226 891
 Width: 350
-Flags: W
-HStem: 446 20<136.5 212.5>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

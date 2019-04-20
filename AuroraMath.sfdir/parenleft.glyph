@@ -1,9 +1,9 @@
 StartChar: parenleft
-Encoding: 40 40 687
+Encoding: 40 40 672
 Width: 333
-Flags: W
-HStem: 656 20<295 295>
-VStem: 48 86<205 307.5 205 310.5>
+Flags: MW
+GlyphVariantsVertical: parenleft.v1 parenleft.v2 parenleft.v3 parenleft.v4
+GlyphCompositionVertical: 3  uni239D(⎝)%0,0,50,839 uni239C(⎜)%1,300,300,300 uni239B(⎛)%0,50,0,839
 LayerCount: 2
 Fore
 SplineSet

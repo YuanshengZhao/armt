@@ -1,0 +1,17 @@
+StartChar: uni22C0.dp
+Encoding: 1114222 -1 1456
+Width: 1255
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+1173 -1040 m 1
+ 1113 -1040 l 1
+ 628 344 l 1
+ 142 -1040 l 1
+ 82 -1040 l 1
+ 620 500 l 1
+ 634 500 l 1
+ 1173 -1040 l 1
+EndSplineSet
+EndChar

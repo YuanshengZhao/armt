@@ -1,9 +1,7 @@
 StartChar: cacute
-Encoding: 263 263 807
+Encoding: 263 263 792
 Width: 444
-Flags: W
-HStem: -10 72<211.5 237.5> 431 29<219.5 256> 658 20<350.5 369>
-VStem: 25 77<199.5 252.5>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -22,12 +20,12 @@ SplineSet
  157 431 102 360 102 257 c 0
  102 142 166 62 257 62 c 0
  314 62 350 86 398 156 c 1
-209 507 m 1x20
+209 507 m 1
  169 507 l 1
  316 655 l 2
  334 673 343 678 358 678 c 0
  380 678 393 666 393 646 c 0
  393 630 384 617 363 604 c 2
- 209 507 l 1x20
+ 209 507 l 1
 EndSplineSet
 EndChar

@@ -1,0 +1,24 @@
+StartChar: tildecomb
+Encoding: 771 771 1618
+Width: 333
+VWidth: 1089
+Flags: MW
+GlyphVariantsHorizontal: tildecmb.h1 tildecmb.h2 tildecmb.h3
+LayerCount: 2
+Fore
+SplineSet
+302 727 m 1
+ 331 727 l 1
+ 310 651 281 621 226 621 c 0
+ 201 621 186 625 145 645 c 2
+ 122 656 l 2
+ 107 663 93 667 81 667 c 0
+ 58 667 41 652 30 621 c 1
+ 1 621 l 1
+ 16 686 52 722 102 722 c 0
+ 124 722 149 716 172 704 c 2
+ 196 692 l 2
+ 215 683 234 677 249 677 c 0
+ 272 677 285 689 302 727 c 1
+EndSplineSet
+EndChar

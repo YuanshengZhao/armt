@@ -1,0 +1,29 @@
+StartChar: uni27E6
+Encoding: 10214 10214 1642
+Width: 478
+Flags: HW
+GlyphVariantsVertical: uni301A.v1 uni301A.v2 uni301A.v3 uni301A.v4
+GlyphCompositionVertical: 3  uni301A.bt%0,50,0,839 uni301A.ex%1,300,300,300 uni301A.tp%0,0,50,839
+LayerCount: 2
+Fore
+SplineSet
+444 -156 m 1
+ 88 -156 l 1
+ 88 662 l 1
+ 444 662 l 1
+ 444 637 l 1
+ 354 637 l 2
+ 309 637 309 607 309 593 c 2
+ 309 -79 l 2
+ 309 -91 309 -131 358 -131 c 2
+ 444 -131 l 1
+ 444 -156 l 1
+233 -131 m 1
+ 233 637 l 1
+ 209 637 l 2
+ 164 637 164 607 164 593 c 2
+ 164 -79 l 2
+ 164 -91 164 -131 213 -131 c 2
+ 233 -131 l 1
+EndSplineSet
+EndChar

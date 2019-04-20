@@ -1,0 +1,20 @@
+StartChar: uni2A06
+Encoding: 10758 10758 1467
+Width: 853
+VWidth: 1500
+Flags: MW
+GlyphVariantsVertical: uni2A06.dp
+LayerCount: 2
+Fore
+SplineSet
+771 -380 m 1
+ 82 -380 l 1
+ 82 500 l 1
+ 133 500 l 1
+ 133 -329 l 1
+ 720 -329 l 1
+ 720 500 l 1
+ 771 500 l 1
+ 771 -380 l 1
+EndSplineSet
+EndChar

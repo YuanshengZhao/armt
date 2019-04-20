@@ -1,9 +1,7 @@
 StartChar: question
-Encoding: 63 63 705
+Encoding: 63 63 690
 Width: 444
-Flags: W
-HStem: -8 107<222 251.5 222 252> 449 20<100.5 128> 646 30<189.5 244>
-VStem: 68 51<511 600> 184 107<29 59 29 59> 322 92<503 540 500.5 559.5>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

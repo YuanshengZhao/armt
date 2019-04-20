@@ -1,15 +1,16 @@
 StartChar: bar
 Encoding: 124 124 329
-Width: 200
-Flags: MW
-VStem: 72 56<-163 677>
+Width: 356
+Flags: HMW
+GlyphVariantsVertical: divides.v1 divides.v2 divides.v3 divides.v4
+GlyphCompositionVertical: 1  divides.ex%1,448,448,448
 LayerCount: 2
 Fore
 SplineSet
-128 -163 m 1
- 72 -163 l 1
- 72 677 l 1
- 128 677 l 1
- 128 -163 l 1
+206 -163 m 1
+ 150 -163 l 1
+ 150 677 l 1
+ 206 677 l 1
+ 206 -163 l 1
 EndSplineSet
 EndChar

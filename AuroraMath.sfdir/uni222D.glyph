@@ -1,7 +1,8 @@
 StartChar: uni222D
 Encoding: 8749 8749 215
-Width: 1085
+Width: 1402
 Flags: HMW
+GlyphVariantsVertical: uni222D.dp
 LayerCount: 2
 Fore
 SplineSet

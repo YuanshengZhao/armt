@@ -1,9 +1,9 @@
 StartChar: bracketleft
-Encoding: 91 91 707
+Encoding: 91 91 692
 Width: 333
-Flags: W
-HStem: -156 25<213 299 213 299> 637 25<193 209 209 299>
-VStem: 88 76<-96.5 -79 -79 593>
+Flags: MW
+GlyphVariantsVertical: bracketleft.v1 bracketleft.v2 bracketleft.v3 bracketleft.v4
+GlyphCompositionVertical: 3  uni23A3(⎣)%0,0,50,839 uni23A2(⎢)%1,300,300,300 uni23A1(⎡)%0,50,0,839
 LayerCount: 2
 Fore
 SplineSet

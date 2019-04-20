@@ -1,9 +1,7 @@
 StartChar: musicalnote
-Encoding: 9834 9834 1310
+Encoding: 9834 9834 1282
 Width: 500
-Flags: W
-HStem: -18 230<116 167 116 187> 554 112G<286 334.5>
-VStem: 237 49G<189 554> 434 48G<426 478>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

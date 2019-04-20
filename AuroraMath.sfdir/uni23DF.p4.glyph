@@ -1,0 +1,19 @@
+StartChar: uni23DF.p4
+Encoding: 1114241 -1 1515
+Width: 622
+VWidth: 100
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+627 -133 m 0
+ 627 -142 619 -158 617 -162 c 0
+ 527 -331 338 -400 -4 -400 c 2
+ -5 -400 l 1
+ -5 -310 l 1
+ 53 -310 l 2
+ 237 -310 485 -303 596 -153 c 0
+ 603 -144 614 -127 622 -127 c 0
+ 625 -127 627 -129 627 -133 c 0
+EndSplineSet
+EndChar

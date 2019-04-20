@@ -1,9 +1,7 @@
 StartChar: Cacute
-Encoding: 262 262 806
+Encoding: 262 262 791
 Width: 667
-Flags: W
-HStem: -14 44<360.5 416.5> 636 40<322 386.5 322 410.5>
-VStem: 28 116<282.5 380>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

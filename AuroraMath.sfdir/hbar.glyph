@@ -1,9 +1,7 @@
 StartChar: hbar
-Encoding: 295 295 826
+Encoding: 295 295 811
 Width: 500
-Flags: W
-HStem: -9 47<317 393> 390 51G<335 349>
-VStem: 288 79G<23.5 67.5> 370 78G<356.5 371.5>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

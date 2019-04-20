@@ -1,9 +1,7 @@
 StartChar: quoteleft
-Encoding: 8216 8216 900
+Encoding: 8216 8216 885
 Width: 333
-Flags: W
-HStem: 433 104<164 212.5> 656 20<227 227>
-VStem: 115 39<547 552>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

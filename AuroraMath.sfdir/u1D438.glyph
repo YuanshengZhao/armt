@@ -1,11 +1,8 @@
 StartChar: u1D438
-Encoding: 119864 119864 474
+Encoding: 119864 119864 472
 Width: 611
 Flags: MW
-ItalicCorrection: 88
 TopAccentHorizontal: 412
-HStem: 0 33<228 293.5 228 506> 620 33<364 470.5>
-VStem: -1 138
 LayerCount: 2
 Fore
 SplineSet

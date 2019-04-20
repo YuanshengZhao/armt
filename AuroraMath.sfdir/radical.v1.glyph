@@ -1,0 +1,18 @@
+StartChar: radical.v1
+Encoding: 1114199 -1 1404
+Width: 732
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+762 556 m 1
+ 442 -660 l 1
+ 179 -109 l 1
+ 72 -149 l 1
+ 60 -128 l 1
+ 252 -26 l 1
+ 448 -443 l 1
+ 703 556 l 1
+ 762 556 l 1
+EndSplineSet
+EndChar

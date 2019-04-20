@@ -1,18 +1,18 @@
 StartChar: uni22B2
-Encoding: 8882 8882 1327
-Width: 418
-Flags: W
-VStem: 343 55G<168 346 346 346>
+Encoding: 8882 8882 1297
+Width: 636
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-398 68 m 1
- 20 257 l 1
- 398 449 l 1
- 398 68 l 1
-343 168 m 1
- 343 346 l 1
- 157 257 l 1
- 343 168 l 1
+574 247 m 1
+ 62 6 l 1
+ 62 508 l 1
+ 574 267 l 1
+ 574 247 l 1
+478 257 m 1
+ 112 429 l 1
+ 112 85 l 1
+ 478 257 l 1
 EndSplineSet
 EndChar

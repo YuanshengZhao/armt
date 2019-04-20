@@ -1,0 +1,19 @@
+StartChar: uni2A05.dp
+Encoding: 1114225 -1 1459
+Width: 1255
+VWidth: 1500
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+1173 -1040 m 1
+ 1109 -1040 l 1
+ 1109 436 l 1
+ 146 436 l 1
+ 146 -1040 l 1
+ 82 -1040 l 1
+ 82 500 l 1
+ 1173 500 l 1
+ 1173 -1040 l 1
+EndSplineSet
+EndChar

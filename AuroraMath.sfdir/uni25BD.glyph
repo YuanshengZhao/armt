@@ -1,17 +1,18 @@
 StartChar: uni25BD
 Encoding: 9661 9661 304
-Width: 634
+Width: 628
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-592 548 m 1
- 317 0 l 1
- 42 548 l 1
- 592 548 l 1
-523 506 m 1
- 111 506 l 1
- 317 96 l 1
- 523 506 l 1
+566 518 m 1
+ 324 0 l 1
+ 304 0 l 1
+ 62 518 l 1
+ 566 518 l 1
+486 470 m 1
+ 141 470 l 1
+ 314 97 l 1
+ 486 470 l 1
 EndSplineSet
 EndChar

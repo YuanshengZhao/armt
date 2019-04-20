@@ -1,9 +1,7 @@
 StartChar: .notdef
-Encoding: 1114112 -1 572
+Encoding: 1114112 -1 570
 Width: 714
-Flags: HMW
-HStem: -8 107<342 371.5 342 372> 449 20<220.5 248> 646 30<309.5 364>
-VStem: 188 51<511 600> 304 107<29 59 29 59> 442 92<503 540 500.5 559.5>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

@@ -1,9 +1,7 @@
 StartChar: yen
-Encoding: 165 165 717
+Encoding: 165 165 702
 Width: 500
-Flags: W
-HStem: 0 19<111 355 111 111> 182 40<16 190 16 190 275 448> 312 40<16 160 16 183 16 160 302 448> 643 19<-53 190 -53 190 317 331>
-VStem: 190 85<120 182 74 182 222 298>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

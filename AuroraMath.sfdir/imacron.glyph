@@ -1,9 +1,7 @@
 StartChar: imacron
-Encoding: 299 299 828
+Encoding: 299 299 813
 Width: 278
-Flags: W
-HStem: 0 15<16 253 16 16> 390 15<20 20> 440 20<175 175> 547 54<-16 292 -16 292>
-VStem: 95 84<102 334 334 356>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

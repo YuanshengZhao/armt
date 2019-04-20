@@ -1,9 +1,7 @@
 StartChar: onequarter
-Encoding: 188 188 735
+Encoding: 188 188 720
 Width: 750
-Flags: W
-HStem: -14 20 90 57<458 593 458 593 413 593 663 718> 656 20<157 157 591 637 637 637>
-VStem: 90 81<326 330 330 583 583 594> 593 70<0 90 0 90 147 326 326 326>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

@@ -1,8 +1,7 @@
 StartChar: zdotaccent
-Encoding: 380 380 883
+Encoding: 380 380 868
 Width: 444
-Flags: W
-HStem: 0 30<134 272 272 297.5 134 404> 420 30<125 155 155 293>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

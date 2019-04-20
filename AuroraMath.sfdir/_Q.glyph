@@ -1,10 +1,8 @@
 StartChar: Q
-Encoding: 81 81 357
+Encoding: 81 81 355
 Width: 722
 Flags: MW
 TopAccentHorizontal: 378
-HStem: 640 36<335 385.5>
-VStem: 34 114<280 383 276.5 430.5> 574 114<283.5 389.5>
 LayerCount: 2
 Fore
 SplineSet

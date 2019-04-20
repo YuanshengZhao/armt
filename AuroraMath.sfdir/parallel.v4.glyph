@@ -1,0 +1,19 @@
+StartChar: parallel.v4
+Encoding: 1114191 -1 1396
+Width: 556
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+406 -1868 m 1
+ 350 -1868 l 1
+ 350 556 l 1
+ 406 556 l 1
+ 406 -1868 l 1
+206 -1868 m 1
+ 150 -1868 l 1
+ 150 556 l 1
+ 206 556 l 1
+ 206 -1868 l 1
+EndSplineSet
+EndChar

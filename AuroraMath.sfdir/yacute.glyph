@@ -1,8 +1,7 @@
 StartChar: yacute
-Encoding: 253 253 797
+Encoding: 253 253 782
 Width: 500
-Flags: W
-HStem: -218 84<83 158> 430 20<14 220 220 220 340 475 475 475> 658 20<358.5 377>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -33,12 +32,12 @@ SplineSet
  388 426 372 435 340 435 c 1
  340 450 l 1
  475 450 l 1
-217 507 m 1x20
+217 507 m 1
  177 507 l 1
  324 655 l 2
  342 673 351 678 366 678 c 0
  388 678 401 666 401 646 c 0
  401 630 392 617 371 604 c 2
- 217 507 l 1x20
+ 217 507 l 1
 EndSplineSet
 EndChar

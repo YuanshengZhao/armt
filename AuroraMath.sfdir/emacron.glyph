@@ -1,8 +1,7 @@
 StartChar: emacron
-Encoding: 275 275 815
+Encoding: 275 275 800
 Width: 444
-Flags: W
-HStem: -10 69<224.5 259.5> 277 32<99 303 99 405 97 303> 424 36<209 235.5> 547 54<67 378 67 378>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -22,10 +21,10 @@ SplineSet
  303 309 l 1
  290 396 266 424 205 424 c 0
  144 424 110 387 99 309 c 1
-67 601 m 1x10
+67 601 m 1
  378 601 l 1
  378 547 l 1
  67 547 l 1
- 67 601 l 1x10
+ 67 601 l 1
 EndSplineSet
 EndChar

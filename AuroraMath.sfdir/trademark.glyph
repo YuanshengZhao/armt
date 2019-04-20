@@ -1,9 +1,7 @@
 StartChar: trademark
-Encoding: 8482 8482 923
+Encoding: 8482 8482 908
 Width: 945
-Flags: W
-HStem: 257 14<101 126.5 273 295 101 126.5> 635 27G<93 126 126 159 236 276 236 236>
-VStem: 159 77<330 635> 458 28<346 591> 802 78G<330 595>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

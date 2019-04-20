@@ -1,0 +1,16 @@
+StartChar: circumflex.h3
+Encoding: 1114250 -1 1637
+Width: 1400
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+1400 596 m 1
+ 700 692 l 1
+ 0 596 l 1
+ 0 640 l 1
+ 699 752 l 1
+ 1400 640 l 1
+ 1400 596 l 1
+EndSplineSet
+EndChar

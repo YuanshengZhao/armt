@@ -1,0 +1,16 @@
+StartChar: parenright.v2
+Encoding: 1114118 -1 1303
+Width: 356
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+306 -171 m 0
+ 306 -668 92 -839 43 -898 c 1
+ 30 -868 l 1
+ 174 -697 214 -448 214 -171 c 0
+ 214 106 174 354 30 525 c 1
+ 43 556 l 1
+ 92 497 306 326 306 -171 c 0
+EndSplineSet
+EndChar

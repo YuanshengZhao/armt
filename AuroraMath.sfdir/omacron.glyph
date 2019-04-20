@@ -1,9 +1,7 @@
 StartChar: omacron
-Encoding: 333 333 850
+Encoding: 333 333 835
 Width: 500
-Flags: W
-HStem: -10 28<240.5 297.5 240.5 311> 432 28<201.5 279> 547 54<95 406 95 406>
-VStem: 29 90<239.5 295> 380 90<165 267.5>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18,10 +16,10 @@ SplineSet
  184 42 221 18 260 18 c 0
  335 18 380 86 380 199 c 0
  380 336 321 432 237 432 c 0
-95 601 m 1x20
+95 601 m 1
  406 601 l 1
  406 547 l 1
  95 547 l 1
- 95 601 l 1x20
+ 95 601 l 1
 EndSplineSet
 EndChar

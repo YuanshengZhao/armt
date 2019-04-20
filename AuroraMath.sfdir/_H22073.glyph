@@ -1,0 +1,19 @@
+StartChar: H22073
+Encoding: 9633 9633 1605
+Width: 636
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+575 0 m 1
+ 61 0 l 1
+ 61 514 l 1
+ 575 514 l 1
+ 575 0 l 1
+519 56 m 1
+ 519 458 l 1
+ 117 458 l 1
+ 117 56 l 1
+ 519 56 l 1
+EndSplineSet
+EndChar

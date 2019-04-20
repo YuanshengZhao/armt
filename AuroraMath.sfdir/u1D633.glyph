@@ -1,20 +1,19 @@
 StartChar: u1D633
-Encoding: 120371 120371 1084
+Encoding: 120371 120371 1069
 Width: 333
-Flags: W
-HStem: 0 20 504 20<180 256 256 256> 519 20<375 409.5>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-180 524 m 1xc0
- 256 524 l 1xc0
+180 524 m 1
+ 256 524 l 1
  239 442 l 1
- 301 513 346 539 404 539 c 0xa0
+ 301 513 346 539 404 539 c 0
  415 539 423 538 436 536 c 1
  418 451 l 1
  308 455 237 394 211 272 c 2
  153 0 l 1
  69 0 l 1
- 180 524 l 1xc0
+ 180 524 l 1
 EndSplineSet
 EndChar

@@ -1,9 +1,7 @@
 StartChar: lslash
-Encoding: 322 322 842
+Encoding: 322 322 827
 Width: 278
-Flags: W
-HStem: 0 15<21 257 21 21>
-VStem: 98 84<87 318 318 318 362 375 419 564 564 587.5>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

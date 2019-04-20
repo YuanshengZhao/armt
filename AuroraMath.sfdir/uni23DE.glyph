@@ -1,0 +1,28 @@
+StartChar: uni23DE
+Encoding: 9182 9182 1470
+Width: 861
+Flags: HMW
+GlyphVariantsHorizontal: uni23DE.h1 uni23DE.h2 uni23DE.h3 uni23DE.h4
+GlyphCompositionHorizontal: 6  uni23DE.p3%0,0,50,622 uni23DE.ex%1,200,200,200 uni23DE.p4%0,50,0,622 uni23DE.p1%0,0,50,622 uni23DE.ex%1,200,200,200 uni23DE.p2%0,50,0,622
+LayerCount: 2
+Fore
+SplineSet
+11 596.5 m 1
+ 0 596.5 l 1
+ 1 662.5 7 689.5 25 717.5 c 0
+ 43 745.5 84 761.5 140 761.5 c 2
+ 317 761.5 l 2
+ 386 761.5 410 779.5 431 846.5 c 1
+ 451 779.5 474 761.5 544 761.5 c 2
+ 722 761.5 l 2
+ 779 761.5 818 746.5 836 717.5 c 0
+ 854 688.5 860 662.5 861 596.5 c 1
+ 850 596.5 l 1
+ 832 665.5 802 687.5 727 687.5 c 2
+ 559 687.5 l 2
+ 476 687.5 450 706.5 430 781.5 c 1
+ 411 706.5 385 687.5 302 687.5 c 2
+ 134 687.5 l 2
+ 59 687.5 29 665.5 11 596.5 c 1
+EndSplineSet
+EndChar

@@ -25,7 +25,12 @@
 % \setmathfont{LibertinusMath-Regular.otf}
 % \setmathfontface\mathnormal{Garamond-Math}[Kerning=On]
 
-
+\makeatletter
+\def\big{\bBigg@{.9}}
+\def\Big{\bBigg@{1.4}}
+\def\bigg{\bBigg@{1.8}}
+\def\Bigg{\bBigg@{2.3}}
+\makeatother
 \def\Latinalphabets{ABCDEFGHIJKLMNOPQRSTUVWXYZ}
 \def\latinalphabets{abcdefhgijklmnopqrstuvwxyz}
 \def\Greekalphabets{%
@@ -63,7 +68,7 @@
 \NewDocumentCommand \BRACKETMAP { m m }
   { \[ \exp_args:Nx \tl_map_inline:nn {#2} { \lvert#1{##1}\rvert } \] }
 \NewDocumentCommand \SUPSUBMAP { m m }
-  { \[ \exp_args:Nx \tl_map_inline:nn {#2} {{ #1{##1 \sb{\QED}} }} \] }
+  { \[ \exp_args:Nx \tl_map_inline:nn {#2} {{ #1{##1 \sb{0}} }} \] }
 \NewDocumentCommand \CIRCLEDNUMA { s }
   {
     % with *:    0-50
@@ -98,8 +103,8 @@
   { \int_step_inline:nnn {#1} {#2} { \symbol {##1} } }
 \ExplSyntaxOff
 \def\OVERUNDERLINE#1{%
-  #1{} \quad #1{b} \quad #1{ab} \quad #1{abc} \quad #1{abcd} \quad #1{abcde} \quad #1{a+b+c}}
-\def\LISTTEXT{x_1, \, x_2, \, x_3,\ x_4\, \ \ldots, \, x_n}
+  #1{} \quad #1{b} \quad #1{ab} \quad #1{abj} \quad #1{abcd} \quad #1{abcde} \quad #1{a+b+c}}
+\def\LISTTEXT{A_1, \, B_2, \, x_3,\ x_4\, \ \ldots, \, x_n}
 
 \DeclareRobustCommand{\GenericInfo}[2]{}
 
@@ -118,6 +123,7 @@
 \begin{document}
 \section{Alphabets \& Metric}
 \delimitershortfall-.0001pt
+$:;\mathcolon$
 \[\begin{split}
   3.141592653589793238462643383279502884197169399375105820974944592307816406286\\
   208998628034825342117067982148086513282306647093844609550582231725359408128481\\ 117450284102701938521105559644622948954930381964428810975665933446128475648233\\ 786783165271201909145648566923460348610454326648213393607260249141273724587006\\
@@ -335,7 +341,7 @@ $K[x]T[x]\Theta[x]L[x]E[x]H[x]N[x]Z[x]O[x]A[x]P[x]Q[x]\symup H[x]\langle\vert\ra
         \]
 
   \item Large operators (inline)
-        $ \int\limits_0^\infty \int_0^\infty \iint \dd{x} \iiint \dd{y}
+        $ \int\limits_0^\infty \int_0^\infty \int_0^1 \iint \dd{x} \iiint \dd{y}
           \oint \dd{r} \oiint \dd{\theta} \oiiint \dd{\varphi}\varointclockwise \ointctrclockwise \awint \intclockwise
           \int\sum_{i=1}^\infty \prod_{j=i}^\infty \coprod_{i=i}^\infty $
 

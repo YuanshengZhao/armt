@@ -1,15 +1,14 @@
 StartChar: uni239B
-Encoding: 9115 9115 1380
+Encoding: 9115 9115 1350
 Width: 400
-Flags: W
-VStem: 50 94<-283 -233 -283 4.5>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
 370 550 m 0
  370 542 369 533 361 526 c 0
  160 356 144 38 144 -233 c 2
- 144 -283 l 1
+ 144 -283 l 5
  50 -283 l 1
  50 -233 l 2
  50 242 184 442 358 554 c 0

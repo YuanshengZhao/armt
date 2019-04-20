@@ -1,9 +1,7 @@
 StartChar: eogonek
-Encoding: 281 281 819
+Encoding: 281 281 804
 Width: 444
-Flags: W
-HStem: -165 56<302 313> -10 69<155 285> 277 32<99 303 99 405 97 303> 424 36<209 235.5>
-VStem: 219 56<-81.5 -73>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

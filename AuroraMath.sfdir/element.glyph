@@ -1,8 +1,7 @@
 StartChar: element
-Encoding: 8712 8712 1454
+Encoding: 8712 8712 1424
 Width: 536
-Flags: W
-HStem: 8 50<294 298 298 484> 232 50<104 467 104 467> 456 50<244 484 298 484 298 484>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

@@ -1,9 +1,7 @@
 StartChar: rcaron
-Encoding: 345 345 860
+Encoding: 345 345 845
 Width: 333
-Flags: W
-HStem: 0 15<5 245 5 5> 440 20<155 155 259 297> 654 20<11 45 45 45 288 322 322 322>
-VStem: 76 84<84 90 90 315>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -27,13 +25,13 @@ SplineSet
  76 334 l 2
  76 378 67 394 42 394 c 0
  30 394 21 393 7 390 c 1
-322 674 m 1x20
+322 674 m 1
  197 507 l 1
  135 507 l 1
  11 674 l 1
  45 674 l 1
  166 571 l 1
  288 674 l 1
- 322 674 l 1x20
+ 322 674 l 1
 EndSplineSet
 EndChar

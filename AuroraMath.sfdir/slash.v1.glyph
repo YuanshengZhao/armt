@@ -1,0 +1,14 @@
+StartChar: slash.v1
+Encoding: 1114175 -1 1379
+Width: 365
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+365 556 m 1
+ 60 -414 l 1
+ 0 -414 l 1
+ 305 556 l 1
+ 365 556 l 1
+EndSplineSet
+EndChar

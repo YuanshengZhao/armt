@@ -1,0 +1,14 @@
+StartChar: divides.v1
+Encoding: 1114183 -1 1387
+Width: 356
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+206 -414 m 1
+ 150 -414 l 1
+ 150 556 l 1
+ 206 556 l 1
+ 206 -414 l 1
+EndSplineSet
+EndChar

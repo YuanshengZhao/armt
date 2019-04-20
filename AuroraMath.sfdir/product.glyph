@@ -2,6 +2,7 @@ StartChar: product
 Encoding: 8719 8719 194
 Width: 945
 Flags: MW
+GlyphVariantsVertical: product.dp
 LayerCount: 2
 Fore
 SplineSet

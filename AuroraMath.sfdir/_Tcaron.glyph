@@ -1,9 +1,7 @@
 StartChar: Tcaron
-Encoding: 356 356 869
+Encoding: 356 356 854
 Width: 611
-Flags: W
-HStem: 0 19<160 452 160 160> 620 42<144 200 200 254 356 356 356 410>
-VStem: 254 102<120 620>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

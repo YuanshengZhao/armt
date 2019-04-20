@@ -1,21 +1,18 @@
 StartChar: E
-Encoding: 69 69 345
+Encoding: 69 69 343
 Width: 611
 Flags: MW
-ItalicCorrection: 27
 TopAccentHorizontal: 317
-HStem: 0 19<12 552 12 12> 0 37<306 333 333 404.5> 327 41<201 355 201 355> 624 38<220.5 234 234 369> 643 19<12 543>
-VStem: 99 102<109 327 368 553 553 588>
 LayerCount: 2
 Fore
 SplineSet
-597 169 m 1x74
+597 169 m 1
  552 0 l 1
- 12 0 l 1x44
+ 12 0 l 1
  12 19 l 1
  85 24 99 39 99 109 c 2
  99 553 l 2
- 99 623 86 637 12 643 c 1x8c
+ 99 623 86 637 12 643 c 1
  12 662 l 1
  543 662 l 1
  546 519 l 1
@@ -37,6 +34,6 @@ SplineSet
  215 42 257 37 306 37 c 2
  333 37 l 2
  476 37 519 61 569 169 c 1
- 597 169 l 1x74
+ 597 169 l 1
 EndSplineSet
 EndChar

@@ -1,10 +1,8 @@
 StartChar: l
-Encoding: 108 108 378
+Encoding: 108 108 376
 Width: 278
 Flags: MW
 TopAccentHorizontal: 105
-HStem: 0 15<21 257 21 21>
-VStem: 98 84<87 564 564 587.5>
 LayerCount: 2
 Fore
 SplineSet

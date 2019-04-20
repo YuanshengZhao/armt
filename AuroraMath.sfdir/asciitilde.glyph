@@ -1,8 +1,7 @@
 StartChar: asciitilde
-Encoding: 126 126 712
+Encoding: 126 126 697
 Width: 541
-Flags: W
-HStem: 186 66<363.5 389.5 363.5 402> 254 66<152.5 178.5>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

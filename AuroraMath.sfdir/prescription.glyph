@@ -1,9 +1,7 @@
 StartChar: prescription
-Encoding: 8478 8478 921
+Encoding: 8478 8478 906
 Width: 667
-Flags: W
-HStem: -14 20 308 35G 625 37G<239.5 286.5>
-VStem: 102 102<120 306 343 553 553 589> 438 109G<420 555.5>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

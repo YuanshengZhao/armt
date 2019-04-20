@@ -1,9 +1,7 @@
 StartChar: ccedilla
-Encoding: 231 231 777
+Encoding: 231 231 762
 Width: 444
-Flags: W
-HStem: -215 35<176.5 204 176.5 230.5> -100 38<183.5 258> 431 29<219.5 256>
-VStem: 25 77<199.5 252> 242 75<-149.5 -123>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

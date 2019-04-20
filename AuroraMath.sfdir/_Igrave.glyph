@@ -1,9 +1,7 @@
 StartChar: Igrave
-Encoding: 204 204 751
+Encoding: 204 204 736
 Width: 333
-Flags: W
-HStem: 0 19<18 315 18 18> 643 19<18 315 18 315>
-VStem: 115 102<109 553>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

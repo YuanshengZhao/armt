@@ -1,8 +1,7 @@
 StartChar: endash
-Encoding: 8211 8211 898
+Encoding: 8211 8211 883
 Width: 500
-Flags: W
-HStem: 201 49<0 500 0 500>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

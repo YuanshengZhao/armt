@@ -1,8 +1,7 @@
 StartChar: zacute
-Encoding: 378 378 881
+Encoding: 378 378 866
 Width: 444
-Flags: W
-HStem: 0 30<134 272 272 297.5 134 404> 420 30<125 155 155 293> 658 20<330.5 349>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -22,12 +21,12 @@ SplineSet
  323 30 357 39 371 56 c 0
  384 73 390 89 400 139 c 1
  418 135 l 1
-189 507 m 1x20
+189 507 m 1
  149 507 l 1
  296 655 l 2
  314 673 323 678 338 678 c 0
  360 678 373 666 373 646 c 0
  373 630 364 617 343 604 c 2
- 189 507 l 1x20
+ 189 507 l 1
 EndSplineSet
 EndChar

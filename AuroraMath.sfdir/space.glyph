@@ -1,6 +1,6 @@
 StartChar: space
-Encoding: 32 32 680
+Encoding: 32 32 665
 Width: 250
-Flags: HW
+Flags: HMW
 LayerCount: 2
 EndChar

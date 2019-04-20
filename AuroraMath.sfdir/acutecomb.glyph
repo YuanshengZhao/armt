@@ -1,0 +1,17 @@
+StartChar: acutecomb
+Encoding: 769 769 1617
+Width: 333
+VWidth: 1089
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+133 596 m 1
+ 93 596 l 1
+ 240 744 l 2
+ 258 762 267 767 282 767 c 0
+ 304 767 317 755 317 735 c 0
+ 317 719 308 706 287 693 c 2
+ 133 596 l 1
+EndSplineSet
+EndChar

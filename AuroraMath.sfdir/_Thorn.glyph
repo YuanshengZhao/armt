@@ -1,9 +1,7 @@
 StartChar: Thorn
-Encoding: 222 222 768
+Encoding: 222 222 753
 Width: 556
-Flags: W
-HStem: 0 19<16 296 16 16> 158 40<259 310> 494 38<221.5 282 282 303> 643 19<16 293 16 293>
-VStem: 100 102<120 161 72.5 201 201 461> 433 109<318 396.5>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

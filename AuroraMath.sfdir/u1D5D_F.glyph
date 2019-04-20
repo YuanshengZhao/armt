@@ -1,9 +1,7 @@
 StartChar: u1D5DF
-Encoding: 120287 120287 948
+Encoding: 120287 120287 933
 Width: 611
-Flags: W
-HStem: 0 125<230 579 230 579> 709 20<80 230 230 230>
-VStem: 80 150<125 729 125 729 125 729>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

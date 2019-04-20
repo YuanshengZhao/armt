@@ -2,8 +2,6 @@ StartChar: divide
 Encoding: 247 247 337
 Width: 636
 Flags: MW
-HStem: 0 110<310 340> 229 56<62 574 62 574> 404 110<310 340>
-VStem: 271 110G<40 70 444 474>
 LayerCount: 2
 Fore
 SplineSet

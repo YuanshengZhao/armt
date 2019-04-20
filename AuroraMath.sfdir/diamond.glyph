@@ -1,8 +1,7 @@
 StartChar: diamond
-Encoding: 9830 9830 1477
+Encoding: 9830 9830 1447
 Width: 531
-Flags: W
-HStem: -12 20
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

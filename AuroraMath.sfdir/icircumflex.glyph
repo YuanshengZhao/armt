@@ -1,9 +1,7 @@
 StartChar: icircumflex
-Encoding: 238 238 784
+Encoding: 238 238 769
 Width: 278
-Flags: W
-HStem: 0 15<16 253 16 16> 390 15<20 20> 440 20<175 175> 654 20<108 170 170 170>
-VStem: 95 84<102 334 334 356>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

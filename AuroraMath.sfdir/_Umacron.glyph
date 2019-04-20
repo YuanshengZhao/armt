@@ -1,9 +1,7 @@
 StartChar: Umacron
-Encoding: 362 362 871
+Encoding: 362 362 856
 Width: 722
-Flags: W
-HStem: -14 44<342.5 409.5> 643 19<14 297 14 297> 759 54<226 537 226 537>
-VStem: 104 102<241 553> 567 44<245 254 254 515>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -29,10 +27,10 @@ SplineSet
  705 662 l 1
  705 643 l 1
  623 633 611 617 611 515 c 2
-226 813 m 1x20
+226 813 m 1
  537 813 l 1
  537 759 l 1
  226 759 l 1
- 226 813 l 1x20
+ 226 813 l 1
 EndSplineSet
 EndChar

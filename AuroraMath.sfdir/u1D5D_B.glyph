@@ -1,13 +1,11 @@
 StartChar: u1D5DB
-Encoding: 120283 120283 944
+Encoding: 120283 120283 929
 Width: 722
-Flags: W
-HStem: 0 20 331 125<218 506 218 507 218 506> 709 20<68 218 218 218 506 657 657 657>
-VStem: 68 150<0 331 0 456 456 729> 506 151<456 729 0 729> 507 150<0 331 331 331>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-507 331 m 1xe4
+507 331 m 1
  218 331 l 1
  218 0 l 1
  68 0 l 1
@@ -17,8 +15,8 @@ SplineSet
  506 456 l 1
  506 729 l 1
  657 729 l 1
- 657 0 l 1xf8
+ 657 0 l 1
  507 0 l 1
- 507 331 l 1xe4
+ 507 331 l 1
 EndSplineSet
 EndChar

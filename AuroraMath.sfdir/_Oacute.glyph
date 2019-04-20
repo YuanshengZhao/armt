@@ -1,9 +1,7 @@
 StartChar: Oacute
-Encoding: 211 211 758
+Encoding: 211 211 743
 Width: 722
-Flags: W
-HStem: -14 36<336 385.5 336 453.5> 640 36<333.5 384>
-VStem: 34 114<284 380 273.5 431.5> 574 114<298.5 376.5 226.5 387.5>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

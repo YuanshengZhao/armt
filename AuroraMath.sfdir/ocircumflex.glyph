@@ -1,9 +1,7 @@
 StartChar: ocircumflex
-Encoding: 244 244 789
+Encoding: 244 244 774
 Width: 500
-Flags: W
-HStem: -10 28<240.5 297.5 240.5 311> 432 28<201.5 279> 654 20<219 281 281 281>
-VStem: 29 90<239.5 295> 380 90<165 267.5>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18,13 +16,13 @@ SplineSet
  184 42 221 18 260 18 c 0
  335 18 380 86 380 199 c 0
  380 336 321 432 237 432 c 0
-406 507 m 1x20
+406 507 m 1
  372 507 l 1
  250 610 l 1
  129 507 l 1
  95 507 l 1
  219 674 l 1
  281 674 l 1
- 406 507 l 1x20
+ 406 507 l 1
 EndSplineSet
 EndChar

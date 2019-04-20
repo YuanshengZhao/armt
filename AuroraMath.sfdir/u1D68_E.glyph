@@ -1,8 +1,7 @@
 StartChar: u1D68E
-Encoding: 120462 120462 1195
+Encoding: 120462 120462 1180
 Width: 600
-Flags: W
-HStem: -16 41<252 337 252 350.5> 199 41<104 478 104 520 104 478> 390 41<242.5 339 227 339.5>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

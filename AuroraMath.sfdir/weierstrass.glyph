@@ -1,9 +1,7 @@
 StartChar: weierstrass
-Encoding: 8472 8472 920
+Encoding: 8472 8472 905
 Width: 624
-Flags: W
-HStem: -193 15<119 162.5 119 177> -4 17<307.5 324.5 307.5 395.5> 123 51G<274 323 274 326> 432 47G<403.5 448.5>
-VStem: 56 66<245 284.5> 239 38<50.5 123> 495 91G<248 307>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

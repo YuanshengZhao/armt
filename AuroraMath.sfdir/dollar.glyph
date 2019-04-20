@@ -1,8 +1,7 @@
 StartChar: dollar
-Encoding: 36 36 684
+Encoding: 36 36 669
 Width: 500
-Flags: W
-VStem: 52 74<511 533.5> 230 34<-87 0 -87 0 28 293 664 727> 378 79<146 177>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

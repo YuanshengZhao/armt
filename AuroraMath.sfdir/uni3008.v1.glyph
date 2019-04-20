@@ -1,0 +1,16 @@
+StartChar: uni3008.v1
+Encoding: 1114167 -1 1371
+Width: 402
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+352 -414 m 1
+ 297 -414 l 1
+ 50 70 l 1
+ 297 556 l 1
+ 352 556 l 1
+ 129 71 l 1
+ 352 -414 l 1
+EndSplineSet
+EndChar

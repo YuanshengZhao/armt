@@ -1,9 +1,7 @@
 StartChar: Aogonek
-Encoding: 260 260 804
+Encoding: 260 260 789
 Width: 722
-Flags: W
-HStem: -165 56<684 694.5> 216 41<216 447 216 461 199 447> 654 20<347 367 367 367>
-VStem: 601 56<-80.5 -72.5>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

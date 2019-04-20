@@ -1,9 +1,7 @@
 StartChar: degree
-Encoding: 176 176 725
+Encoding: 176 176 710
 Width: 400
-Flags: W
-HStem: 390 34<171 228 171 238.5> 642 34<171.5 228>
-VStem: 57 39<503.5 562.5 503.5 573> 304 39<503 562.5>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

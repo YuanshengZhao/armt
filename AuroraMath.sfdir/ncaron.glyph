@@ -1,9 +1,7 @@
 StartChar: ncaron
-Encoding: 328 328 848
+Encoding: 328 328 833
 Width: 500
-Flags: W
-HStem: 0 15<18 230 18 18> 405 55<283 291.5> 654 20<95 129 129 129 372 406 406 406>
-VStem: 80 84<90 338 338 348> 340 84<99 308 308 310>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -32,13 +30,13 @@ SplineSet
  80 338 l 2
  80 387 71 402 43 402 c 0
  32 402 22 401 16 398 c 1
-406 674 m 1x20
+406 674 m 1
  281 507 l 1
  219 507 l 1
  95 674 l 1
  129 674 l 1
  250 571 l 1
  372 674 l 1
- 406 674 l 1x20
+ 406 674 l 1
 EndSplineSet
 EndChar

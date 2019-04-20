@@ -2,8 +2,8 @@ StartChar: braceleft
 Encoding: 123 123 328
 Width: 480
 Flags: MW
-HStem: 660 20<350 350>
-VStem: 185 74<-41 121 363 378 378 541 541 546>
+GlyphVariantsVertical: braceleft.v1 braceleft.v2 braceleft.v3 braceleft.v4
+GlyphCompositionVertical: 5  uni23A9(⎩)%0,0,50,681 uni23AA(⎪)%1,300,300,309 uni23A8(⎨)%0,50,50,719 uni23AA(⎪)%1,300,300,309 uni23A7(⎧)%0,50,0,681
 LayerCount: 2
 Fore
 SplineSet

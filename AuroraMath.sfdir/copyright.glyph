@@ -1,9 +1,7 @@
 StartChar: copyright
-Encoding: 169 169 720
+Encoding: 169 169 705
 Width: 760
-Flags: W
-HStem: -14 42<302.5 459 302.5 476.5> 141 20<363 420.5> 512 20<361.5 427.5 345 437.5> 634 42<304.5 461>
-VStem: 38 55<248 414 248 427.5> 190 77<281.5 391> 667 55<248.5 412.5>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

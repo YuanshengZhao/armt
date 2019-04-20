@@ -1,0 +1,19 @@
+StartChar: uni301A.ex
+Encoding: 1114150 -1 1335
+Width: 508
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+310 201 m 1
+ 233 201 l 1
+ 233 510 l 1
+ 310 510 l 1
+ 310 201 l 1
+165 201 m 1
+ 88 201 l 1
+ 88 510 l 1
+ 165 510 l 1
+ 165 201 l 1
+EndSplineSet
+EndChar

@@ -1,8 +1,7 @@
 StartChar: hungarumlaut
-Encoding: 733 733 897
+Encoding: 733 733 882
 Width: 333
-Flags: W
-HStem: 658 20<178.5 197 334.5 353>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

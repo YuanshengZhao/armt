@@ -1,9 +1,7 @@
 StartChar: Ccaron
-Encoding: 268 268 808
+Encoding: 268 268 793
 Width: 667
-Flags: W
-HStem: -14 44<360.5 416.5> 636 40<322 386.5 322 410.5>
-VStem: 28 116<282.5 380>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

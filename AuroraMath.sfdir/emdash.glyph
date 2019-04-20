@@ -1,8 +1,8 @@
 StartChar: emdash
-Encoding: 8212 8212 899
+Encoding: 8212 8212 884
 Width: 1000
-Flags: W
-HStem: 201 49<0 1000 0 1000>
+Flags: MW
+GlyphCompositionVertical: 1  parallel.ex%0,448,448,448
 LayerCount: 2
 Fore
 SplineSet

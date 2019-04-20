@@ -1,0 +1,18 @@
+StartChar: tildecmb.h3
+Encoding: 1114253 -1 1640
+Width: 1333
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+1333 733 m 1
+ 1282 639 1058 610 906 610 c 0
+ 745 610 459 674 325 674 c 0
+ 226 674 63 664 30 610 c 1
+ 0 610 l 1
+ 51 704 275 733 427 733 c 0
+ 585 733 869 670 1003 670 c 0
+ 1102 670 1270 679 1303 733 c 1
+ 1333 733 l 1
+EndSplineSet
+EndChar

@@ -1,19 +1,21 @@
 StartChar: uni2016
 Encoding: 8214 8214 152
-Width: 400
-Flags: MW
+Width: 556
+Flags: HMW
+GlyphVariantsVertical: parallel.v1 parallel.v2 parallel.v3 parallel.v4
+GlyphCompositionVertical: 1  parallel.ex%1,149,149,448
 LayerCount: 2
 Fore
 SplineSet
-328 -163 m 1
- 272 -163 l 1
- 272 677 l 1
- 328 677 l 1
- 328 -163 l 1
-128 -163 m 1
- 72 -163 l 1
- 72 677 l 1
- 128 677 l 1
- 128 -163 l 1
+406 -163 m 1
+ 350 -163 l 1
+ 350 677 l 5
+ 406 677 l 1
+ 406 -163 l 1
+206 -163 m 1
+ 150 -163 l 1
+ 150 677 l 1
+ 206 677 l 1
+ 206 -163 l 1
 EndSplineSet
 EndChar

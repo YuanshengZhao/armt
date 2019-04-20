@@ -2,8 +2,6 @@ StartChar: eth
 Encoding: 240 240 336
 Width: 500
 Flags: MW
-HStem: -10 28<241.5 273.5> 432 28<202 265 181 279.5>
-VStem: 29 90<241 290> 381 90<237 269>
 LayerCount: 2
 Fore
 SplineSet

@@ -1,8 +1,7 @@
 StartChar: Zacute
-Encoding: 377 377 880
+Encoding: 377 377 865
 Width: 611
-Flags: W
-HStem: 0 38<145 402 402 430.5 145 573> 624 38<192 225 225 446>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

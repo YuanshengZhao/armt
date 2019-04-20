@@ -1,9 +1,7 @@
 StartChar: uni2ACC
-Encoding: 10956 10956 1463
+Encoding: 10956 10956 1433
 Width: 636
-Flags: W
-HStem: -124 53<303 559> 28 52<52 332 52 382> 137 50<52 338 52 342> 585 51G<52 338 338 342 52 338>
-VStem: 534 50G<330 439>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
