@@ -2,6 +2,7 @@ StartChar: Eogonek
 Encoding: 280 280 803
 Width: 611
 Flags: MW
+TopAccentHorizontal: 304
 LayerCount: 2
 Fore
 SplineSet

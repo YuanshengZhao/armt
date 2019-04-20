@@ -1,7 +1,9 @@
 StartChar: Lcaron
 Encoding: 317 317 824
-Width: 611
+Width: 599
 Flags: MW
+ItalicCorrection: 11
+TopAccentHorizontal: 286
 LayerCount: 2
 Fore
 SplineSet

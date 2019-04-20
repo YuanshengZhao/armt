@@ -2,6 +2,7 @@ StartChar: uni2A00
 Encoding: 10752 10752 311
 Width: 1255
 Flags: HMW
+IsExtendedShape: 1
 GlyphVariantsVertical: uni2A00.dp
 LayerCount: 2
 Fore

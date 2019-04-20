@@ -2,6 +2,7 @@ StartChar: Amacron
 Encoding: 256 256 785
 Width: 722
 Flags: MW
+TopAccentHorizontal: 361
 LayerCount: 2
 Fore
 SplineSet

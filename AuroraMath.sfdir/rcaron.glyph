@@ -1,7 +1,9 @@
 StartChar: rcaron
 Encoding: 345 345 845
-Width: 333
+Width: 255
 Flags: MW
+ItalicCorrection: 77
+TopAccentHorizontal: 166
 LayerCount: 2
 Fore
 SplineSet

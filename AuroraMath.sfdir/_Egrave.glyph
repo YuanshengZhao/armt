@@ -1,7 +1,9 @@
 StartChar: Egrave
 Encoding: 200 200 732
-Width: 611
+Width: 601
 Flags: MW
+ItalicCorrection: 9
+TopAccentHorizontal: 277
 LayerCount: 2
 Fore
 SplineSet

@@ -1,7 +1,9 @@
 StartChar: Zacute
 Encoding: 377 377 865
-Width: 611
+Width: 605
 Flags: MW
+ItalicCorrection: 5
+TopAccentHorizontal: 313
 LayerCount: 2
 Fore
 SplineSet

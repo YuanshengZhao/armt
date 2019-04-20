@@ -2,6 +2,7 @@ StartChar: epsilon
 Encoding: 949 949 93
 Width: 426
 Flags: MW
+TopAccentHorizontal: 222
 LayerCount: 2
 Fore
 SplineSet

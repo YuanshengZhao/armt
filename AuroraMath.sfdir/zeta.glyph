@@ -2,6 +2,7 @@ StartChar: zeta
 Encoding: 950 950 94
 Width: 480
 Flags: MW
+TopAccentHorizontal: 209
 LayerCount: 2
 Fore
 SplineSet

@@ -1,7 +1,9 @@
 StartChar: gamma
 Encoding: 947 947 91
-Width: 480
+Width: 363
 Flags: MW
+ItalicCorrection: 116
+TopAccentHorizontal: 247
 LayerCount: 2
 Fore
 SplineSet

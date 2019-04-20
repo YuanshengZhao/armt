@@ -1,7 +1,9 @@
 StartChar: otilde
 Encoding: 245 245 775
-Width: 500
+Width: 480
 Flags: MW
+ItalicCorrection: 19
+TopAccentHorizontal: 248
 LayerCount: 2
 Fore
 SplineSet

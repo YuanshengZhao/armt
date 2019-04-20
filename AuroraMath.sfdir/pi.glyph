@@ -1,7 +1,9 @@
 StartChar: pi
 Encoding: 960 960 103
-Width: 587
+Width: 582
 Flags: MW
+ItalicCorrection: 4
+TopAccentHorizontal: 317
 LayerCount: 2
 Fore
 SplineSet

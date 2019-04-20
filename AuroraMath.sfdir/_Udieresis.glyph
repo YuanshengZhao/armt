@@ -1,7 +1,9 @@
 StartChar: Udieresis
 Encoding: 220 220 751
-Width: 722
+Width: 631
 Flags: MW
+ItalicCorrection: 90
+TopAccentHorizontal: 378
 LayerCount: 2
 Fore
 SplineSet

@@ -1,0 +1,19 @@
+StartChar: uni2035.sty
+Encoding: 1114257 -1 1647
+Width: 347
+Flags: W
+VStem: 50 247
+LayerCount: 2
+Fore
+SplineSet
+50 411 m 0
+ 50 446 86 470 118 470 c 0
+ 155 470 173 434 183 404 c 2
+ 287 101 l 2
+ 290 93 297 75 297 66 c 0
+ 297 57 291 45 281 45 c 0
+ 266 45 249 66 242 77 c 2
+ 78 336 l 2
+ 64 357 50 385 50 411 c 0
+EndSplineSet
+EndChar

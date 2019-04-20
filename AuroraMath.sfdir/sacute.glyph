@@ -1,7 +1,9 @@
 StartChar: sacute
 Encoding: 347 347 847
-Width: 389
+Width: 372
 Flags: MW
+ItalicCorrection: 16
+TopAccentHorizontal: 308
 LayerCount: 2
 Fore
 SplineSet

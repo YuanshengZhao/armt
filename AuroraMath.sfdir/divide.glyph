@@ -1,7 +1,9 @@
 StartChar: divide
 Encoding: 247 247 337
-Width: 636
+Width: 493
 Flags: MW
+ItalicCorrection: 142
+TopAccentHorizontal: 325
 LayerCount: 2
 Fore
 SplineSet

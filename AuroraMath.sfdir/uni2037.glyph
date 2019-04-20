@@ -1,5 +1,5 @@
 StartChar: uni2037
-Encoding: 8247 8247 1634
+Encoding: 8247 8247 1633
 Width: 847
 Flags: MW
 LayerCount: 2
@@ -33,4 +33,5 @@ SplineSet
  578 336 l 2
  564 357 550 385 550 411 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style" uni2037.sty uni2037.ssty
 EndChar

@@ -1,7 +1,9 @@
 StartChar: icircumflex
 Encoding: 238 238 769
-Width: 278
+Width: 238
 Flags: MW
+ItalicCorrection: 39
+TopAccentHorizontal: 139
 LayerCount: 2
 Fore
 SplineSet

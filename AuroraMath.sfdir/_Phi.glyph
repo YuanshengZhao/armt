@@ -1,7 +1,9 @@
 StartChar: Phi
 Encoding: 934 934 86
-Width: 731
+Width: 628
 Flags: MW
+ItalicCorrection: 102
+TopAccentHorizontal: 366
 LayerCount: 2
 Fore
 SplineSet

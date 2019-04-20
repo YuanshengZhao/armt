@@ -1,7 +1,9 @@
 StartChar: theta1
 Encoding: 977 977 114
-Width: 587
+Width: 492
 Flags: MW
+ItalicCorrection: 94
+TopAccentHorizontal: 294
 LayerCount: 2
 Fore
 SplineSet

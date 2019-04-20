@@ -1,7 +1,9 @@
 StartChar: uni20A6
 Encoding: 8358 8358 899
-Width: 722
+Width: 640
 Flags: MW
+ItalicCorrection: 81
+TopAccentHorizontal: 360
 LayerCount: 2
 Fore
 SplineSet

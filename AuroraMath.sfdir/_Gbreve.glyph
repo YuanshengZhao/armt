@@ -1,7 +1,9 @@
 StartChar: Gbreve
 Encoding: 286 286 807
-Width: 722
+Width: 659
 Flags: MW
+ItalicCorrection: 62
+TopAccentHorizontal: 360
 LayerCount: 2
 Fore
 SplineSet

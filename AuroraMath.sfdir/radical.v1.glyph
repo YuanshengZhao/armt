@@ -2,6 +2,7 @@ StartChar: radical.v1
 Encoding: 1114199 -1 1404
 Width: 732
 Flags: HMW
+IsExtendedShape: 1
 LayerCount: 2
 Fore
 SplineSet

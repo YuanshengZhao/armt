@@ -1,7 +1,9 @@
 StartChar: racute
 Encoding: 341 341 841
-Width: 333
+Width: 255
 Flags: MW
+ItalicCorrection: 77
+TopAccentHorizontal: 262
 LayerCount: 2
 Fore
 SplineSet

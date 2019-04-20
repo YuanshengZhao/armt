@@ -1,7 +1,9 @@
 StartChar: dcroat
 Encoding: 273 273 798
-Width: 500
+Width: 491
 Flags: MW
+ItalicCorrection: 8
+TopAccentHorizontal: 359
 LayerCount: 2
 Fore
 SplineSet

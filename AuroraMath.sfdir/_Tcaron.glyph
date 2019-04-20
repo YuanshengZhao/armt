@@ -1,7 +1,9 @@
 StartChar: Tcaron
 Encoding: 356 356 854
-Width: 611
+Width: 499
 Flags: MW
+ItalicCorrection: 111
+TopAccentHorizontal: 305
 LayerCount: 2
 Fore
 SplineSet

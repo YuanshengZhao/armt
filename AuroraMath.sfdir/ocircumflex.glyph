@@ -1,7 +1,9 @@
 StartChar: ocircumflex
 Encoding: 244 244 774
-Width: 500
+Width: 480
 Flags: MW
+ItalicCorrection: 19
+TopAccentHorizontal: 250
 LayerCount: 2
 Fore
 SplineSet

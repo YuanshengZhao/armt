@@ -1,20 +1,22 @@
 StartChar: u1D60D
 Encoding: 120333 120333 1031
-Width: 611
+Width: 449
 Flags: MW
+ItalicCorrection: 247
+TopAccentHorizontal: 430
 LayerCount: 2
 Fore
 SplineSet
-255 332 m 1
- 184 0 l 1
- 90 0 l 1
- 245 729 l 1
- 734 729 l 1
- 717 647 l 1
- 322 647 l 1
- 272 414 l 1
- 619 414 l 1
- 602 332 l 1
- 255 332 l 1
+202 332 m 1
+ 131 0 l 1
+ 37 0 l 1
+ 192 729 l 1
+ 681 729 l 1
+ 664 647 l 1
+ 269 647 l 1
+ 219 414 l 1
+ 566 414 l 1
+ 549 332 l 1
+ 202 332 l 1
 EndSplineSet
 EndChar

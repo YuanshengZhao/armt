@@ -1,7 +1,9 @@
 StartChar: psi
 Encoding: 968 968 111
-Width: 658
+Width: 565
 Flags: MW
+ItalicCorrection: 92
+TopAccentHorizontal: 329
 LayerCount: 2
 Fore
 SplineSet

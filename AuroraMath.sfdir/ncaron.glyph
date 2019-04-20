@@ -2,6 +2,7 @@ StartChar: ncaron
 Encoding: 328 328 833
 Width: 500
 Flags: MW
+TopAccentHorizontal: 250
 LayerCount: 2
 Fore
 SplineSet

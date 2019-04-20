@@ -2,6 +2,7 @@ StartChar: Racute
 Encoding: 340 340 840
 Width: 667
 Flags: MW
+TopAccentHorizontal: 211
 LayerCount: 2
 Fore
 SplineSet

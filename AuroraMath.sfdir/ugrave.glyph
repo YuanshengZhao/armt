@@ -2,6 +2,7 @@ StartChar: ugrave
 Encoding: 249 249 778
 Width: 500
 Flags: MW
+TopAccentHorizontal: 154
 LayerCount: 2
 Fore
 SplineSet

@@ -1,7 +1,9 @@
 StartChar: Zdotaccent
 Encoding: 379 379 867
-Width: 611
+Width: 605
 Flags: MW
+ItalicCorrection: 5
+TopAccentHorizontal: 313
 LayerCount: 2
 Fore
 SplineSet

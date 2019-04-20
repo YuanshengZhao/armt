@@ -1,7 +1,7 @@
 StartChar: uni27E6
-Encoding: 10214 10214 1642
+Encoding: 10214 10214 1641
 Width: 478
-Flags: HW
+Flags: MW
 GlyphVariantsVertical: uni301A.v1 uni301A.v2 uni301A.v3 uni301A.v4
 GlyphCompositionVertical: 3  uni301A.bt%0,50,0,839 uni301A.ex%1,300,300,300 uni301A.tp%0,0,50,839
 LayerCount: 2

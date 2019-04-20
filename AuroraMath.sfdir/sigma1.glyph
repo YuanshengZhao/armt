@@ -1,7 +1,9 @@
 StartChar: sigma1
 Encoding: 962 962 105
-Width: 473
+Width: 421
 Flags: MW
+ItalicCorrection: 51
+TopAccentHorizontal: 293
 LayerCount: 2
 Fore
 SplineSet

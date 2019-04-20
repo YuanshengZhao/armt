@@ -1,7 +1,9 @@
 StartChar: Theta
 Encoding: 920 920 80
-Width: 722
+Width: 672
 Flags: MW
+ItalicCorrection: 49
+TopAccentHorizontal: 360
 LayerCount: 2
 Fore
 SplineSet

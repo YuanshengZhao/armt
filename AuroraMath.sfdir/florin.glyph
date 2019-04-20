@@ -1,7 +1,9 @@
 StartChar: florin
 Encoding: 402 402 871
-Width: 500
+Width: 343
 Flags: MW
+ItalicCorrection: 156
+TopAccentHorizontal: 388
 LayerCount: 2
 Fore
 SplineSet

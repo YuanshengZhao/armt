@@ -2,6 +2,7 @@ StartChar: Acircumflex
 Encoding: 194 194 726
 Width: 722
 Flags: MW
+TopAccentHorizontal: 356
 LayerCount: 2
 Fore
 SplineSet

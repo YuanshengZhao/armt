@@ -1,7 +1,9 @@
 StartChar: rho
 Encoding: 961 961 104
-Width: 534
+Width: 516
 Flags: MW
+ItalicCorrection: 17
+TopAccentHorizontal: 269
 LayerCount: 2
 Fore
 SplineSet

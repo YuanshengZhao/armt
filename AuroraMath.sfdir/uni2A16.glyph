@@ -1,7 +1,9 @@
 StartChar: uni2A16
 Encoding: 10774 10774 319
-Width: 710
+Width: 729
 Flags: HMW
+ItalicCorrection: 200
+IsExtendedShape: 1
 GlyphVariantsVertical: uni2A16.dp
 LayerCount: 2
 Fore

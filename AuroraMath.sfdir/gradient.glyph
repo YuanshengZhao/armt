@@ -1,7 +1,9 @@
 StartChar: gradient
 Encoding: 8711 8711 192
-Width: 664
+Width: 504
 Flags: MW
+ItalicCorrection: 159
+TopAccentHorizontal: 330
 LayerCount: 2
 Fore
 SplineSet

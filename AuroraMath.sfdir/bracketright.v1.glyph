@@ -2,6 +2,7 @@ StartChar: bracketright.v1
 Encoding: 1114125 -1 1310
 Width: 333
 Flags: MW
+IsExtendedShape: 1
 LayerCount: 2
 Fore
 SplineSet

@@ -1,7 +1,9 @@
 StartChar: Ydieresis
 Encoding: 376 376 864
-Width: 722
+Width: 585
 Flags: MW
+ItalicCorrection: 136
+TopAccentHorizontal: 377
 LayerCount: 2
 Fore
 SplineSet

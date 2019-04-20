@@ -2,6 +2,7 @@ StartChar: atilde
 Encoding: 227 227 758
 Width: 444
 Flags: MW
+TopAccentHorizontal: 220
 LayerCount: 2
 Fore
 SplineSet

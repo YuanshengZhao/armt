@@ -2,6 +2,7 @@ StartChar: ucircumflex
 Encoding: 251 251 780
 Width: 500
 Flags: MW
+TopAccentHorizontal: 237
 LayerCount: 2
 Fore
 SplineSet

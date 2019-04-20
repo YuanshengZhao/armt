@@ -1,7 +1,9 @@
 StartChar: delta
 Encoding: 948 948 92
-Width: 534
+Width: 516
 Flags: MW
+ItalicCorrection: 17
+TopAccentHorizontal: 228
 LayerCount: 2
 Fore
 SplineSet

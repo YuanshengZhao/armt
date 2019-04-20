@@ -1,7 +1,9 @@
 StartChar: tau
 Encoding: 964 964 107
-Width: 426
+Width: 394
 Flags: MW
+ItalicCorrection: 31
+TopAccentHorizontal: 219
 LayerCount: 2
 Fore
 SplineSet

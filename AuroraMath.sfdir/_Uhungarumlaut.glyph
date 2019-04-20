@@ -1,7 +1,9 @@
 StartChar: Uhungarumlaut
 Encoding: 368 368 860
-Width: 722
+Width: 631
 Flags: MW
+ItalicCorrection: 90
+TopAccentHorizontal: 440
 LayerCount: 2
 Fore
 SplineSet

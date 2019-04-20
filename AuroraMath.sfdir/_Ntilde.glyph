@@ -1,7 +1,9 @@
 StartChar: Ntilde
 Encoding: 209 209 741
-Width: 722
+Width: 640
 Flags: MW
+ItalicCorrection: 81
+TopAccentHorizontal: 343
 LayerCount: 2
 Fore
 SplineSet

@@ -2,6 +2,7 @@ StartChar: slash.v1
 Encoding: 1114175 -1 1379
 Width: 365
 Flags: HMW
+IsExtendedShape: 1
 LayerCount: 2
 Fore
 SplineSet

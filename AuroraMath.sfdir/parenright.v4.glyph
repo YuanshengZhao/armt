@@ -2,6 +2,7 @@ StartChar: parenright.v4
 Encoding: 1114120 -1 1305
 Width: 382
 Flags: MW
+IsExtendedShape: 1
 LayerCount: 2
 Fore
 SplineSet

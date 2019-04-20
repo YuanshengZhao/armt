@@ -1,7 +1,9 @@
 StartChar: thorn
 Encoding: 254 254 783
-Width: 500
+Width: 478
 Flags: MW
+ItalicCorrection: 21
+TopAccentHorizontal: 108
 LayerCount: 2
 Fore
 SplineSet

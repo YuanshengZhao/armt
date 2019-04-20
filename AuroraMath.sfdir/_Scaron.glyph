@@ -1,7 +1,9 @@
 StartChar: Scaron
 Encoding: 352 352 850
-Width: 556
+Width: 551
 Flags: MW
+ItalicCorrection: 4
+TopAccentHorizontal: 278
 LayerCount: 2
 Fore
 SplineSet

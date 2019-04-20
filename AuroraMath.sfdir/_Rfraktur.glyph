@@ -2,6 +2,7 @@ StartChar: Rfraktur
 Encoding: 8476 8476 158
 Width: 712
 Flags: HMW
+TopAccentHorizontal: 327
 LayerCount: 2
 Fore
 SplineSet

@@ -1,7 +1,9 @@
 StartChar: Yacute
 Encoding: 221 221 752
-Width: 722
+Width: 585
 Flags: MW
+ItalicCorrection: 136
+TopAccentHorizontal: 455
 LayerCount: 2
 Fore
 SplineSet

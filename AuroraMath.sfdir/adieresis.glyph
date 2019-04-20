@@ -2,6 +2,7 @@ StartChar: adieresis
 Encoding: 228 228 759
 Width: 444
 Flags: MW
+TopAccentHorizontal: 222
 LayerCount: 2
 Fore
 SplineSet

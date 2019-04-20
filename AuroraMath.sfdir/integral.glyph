@@ -1,7 +1,9 @@
 StartChar: integral
 Encoding: 8747 8747 213
-Width: 710
+Width: 729
 Flags: HMW
+ItalicCorrection: 200
+IsExtendedShape: 1
 GlyphVariantsVertical: integral.dp
 LayerCount: 2
 Fore

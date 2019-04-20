@@ -2,6 +2,7 @@ StartChar: Lambda
 Encoding: 923 923 81
 Width: 722
 Flags: MW
+TopAccentHorizontal: 339
 LayerCount: 2
 Fore
 SplineSet

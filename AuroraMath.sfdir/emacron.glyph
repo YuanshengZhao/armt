@@ -1,7 +1,9 @@
 StartChar: emacron
 Encoding: 275 275 800
-Width: 444
+Width: 433
 Flags: MW
+ItalicCorrection: 10
+TopAccentHorizontal: 222
 LayerCount: 2
 Fore
 SplineSet

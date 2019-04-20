@@ -2,6 +2,7 @@ StartChar: abreve
 Encoding: 259 259 788
 Width: 444
 Flags: MW
+TopAccentHorizontal: 219
 LayerCount: 2
 Fore
 SplineSet

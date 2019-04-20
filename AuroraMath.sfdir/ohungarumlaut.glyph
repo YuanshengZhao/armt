@@ -1,7 +1,9 @@
 StartChar: ohungarumlaut
 Encoding: 337 337 837
-Width: 500
+Width: 480
 Flags: MW
+ItalicCorrection: 19
+TopAccentHorizontal: 314
 LayerCount: 2
 Fore
 SplineSet

@@ -1,7 +1,9 @@
 StartChar: integral.dp
 Encoding: 1114205 -1 1410
-Width: 1148
+Width: 1177
 Flags: HMW
+ItalicCorrection: 400
+IsExtendedShape: 1
 LayerCount: 2
 Fore
 SplineSet

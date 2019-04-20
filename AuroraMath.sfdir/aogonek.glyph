@@ -2,6 +2,7 @@ StartChar: aogonek
 Encoding: 261 261 790
 Width: 444
 Flags: MW
+TopAccentHorizontal: 212
 LayerCount: 2
 Fore
 SplineSet

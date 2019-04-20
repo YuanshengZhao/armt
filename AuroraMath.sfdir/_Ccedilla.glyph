@@ -2,6 +2,7 @@ StartChar: Ccedilla
 Encoding: 199 199 731
 Width: 667
 Flags: MW
+TopAccentHorizontal: 401
 LayerCount: 2
 Fore
 SplineSet

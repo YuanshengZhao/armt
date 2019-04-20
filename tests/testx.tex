@@ -18,9 +18,10 @@
 %\setmonofont{CMU Typewriter Text}[UprightFont = * Light, HyphenChar = None]
 
 % \setmathfont{TeX Gyre Termes Math}
-\setmathfont{XITS Math}
+% \setmathfont{XITS Math}
 % \setmathfont{TeX Gyre Termes Math}
 \setmathfont{AuroraMath.otf}%[StylisticSet={2,8,9,6},Path=./]
+% \setmathfont{Garamond-Mathx.otf}%[StylisticSet={2,8,9,6},Path=./]
 % \newfontfamily\GaramondMath{Garamond-Math.otf}%[StylisticSet={1,7},Path=./]
 % \setmathfont{LibertinusMath-Regular.otf}
 % \setmathfontface\mathnormal{Garamond-Math}[Kerning=On]
@@ -68,7 +69,7 @@
 \NewDocumentCommand \BRACKETMAP { m m }
   { \[ \exp_args:Nx \tl_map_inline:nn {#2} { \lvert#1{##1}\rvert } \] }
 \NewDocumentCommand \SUPSUBMAP { m m }
-  { \[ \exp_args:Nx \tl_map_inline:nn {#2} {{ #1{##1 \sb{0}} }} \] }
+  { \[ \exp_args:Nx \tl_map_inline:nn {#2} {{ #1{##1 \sb{x}} }} \] }
 \NewDocumentCommand \CIRCLEDNUMA { s }
   {
     % with *:    0-50
@@ -159,7 +160,7 @@ $K(x)T(x)\Theta(x)L(x)E(x)H(x)N(x)Z(x)O(x)A(x)P(x)Q(x)\symup H(x)\partial(x)\par
 % \end{itemize}
 
 $K[x]T[x]\Theta[x]L[x]E[x]H[x]N[x]Z[x]O[x]A[x]P[x]Q[x]\symup H[x]\langle\vert\rangle LWLNLXLAL=LR=R|L|\symbf{L=LR=R}$
-\[a_{ij}({{}j})ij TijT{ijT_oT_x^xL_{ff}L_{jj}Uo}iUojj_x^xJjflTlfxTx[f][j][y]\sin\cos\tan\exp\symup{WTV}(\symsf {fijk})\]
+\[a_{ij}({{}j})ij TijT{ijT_oT_x^xL_{ff}L_{jj}Uo}iUojj_x^xJjflTlfxTx[f][j][y]\sin\cos\tan\exp\symup{WTV}(\symsf {fijk})\int_0^u\]
 \[ \Latinalphabets \latinalphabets \]
 \[ \textit{\Latinalphabets} \textit{\latinalphabets} \]
 \[ \symup{\Latinalphabets} \symup{\latinalphabets} \]
@@ -176,6 +177,8 @@ $K[x]T[x]\Theta[x]L[x]E[x]H[x]N[x]Z[x]O[x]A[x]P[x]Q[x]\symup H[x]\langle\vert\ra
 \[ \symbfscr{\Latinalphabets \latinalphabets} \]
 \[ \symsf{\Latinalphabets \latinalphabets} \]
 \[ \symtt{\Latinalphabets \latinalphabets} \]
+\[ \symfrak{\Latinalphabets \latinalphabets} \]
+\[ \symbffrak{\Latinalphabets \latinalphabets} \]
 \[SO(3)SU(2)LAETSQJQ_AWOWCVO LX UUTTXAT afggffgxhxu[[f,g],x]=fgx-gfx-xfg+xgf\]
 \[[[j,g],x]=jgx-gjx-xjg+xgj\symbf{[[j,g],x]=jgx-gjx-xjg+xgj}\]
 \[\symbf{afggffgQJ[[f,g],x]=fgx-gfx-xfg+xgf} \Omega f \lambda\kappa\vartheta\nu\varpi\upsilon\]
@@ -536,7 +539,7 @@ $K[x]T[x]\Theta[x]L[x]E[x]H[x]N[x]Z[x]O[x]A[x]P[x]Q[x]\symup H[x]\langle\vert\ra
 &{}=\frac{1}{\sqrt{2^n}}\sum_{k_{n-1}=0}^1\cdots\sum_{k_{0}=0}^1\bigotimes_{l=1}^n\left[\exp\left(-2\uppi \ii j\frac{k_{n-l}}{2^l}\right)\ket{k_{n-l}}\right]\\
 &{}=\frac{1}{\sqrt{2^n}}\bigotimes_{l=1}^n\left[\sum_{k_{n-l}=0}^1\exp\left(-2\uppi \ii j\frac{k_{n-l}}{2^l}\right)\ket{k_{n-l}}\right]\\
 &{}=\frac{1}{\sqrt{2^n}}\bigotimes_{l=1}^n\left[\ket{0}_{n-l}+\ee^{-2\uppi \ii j /2^l}\ket{1}_{n-l}\right]\\
-&{}=\frac{1}{\sqrt{2^n}}\bigotimes_{l=1}^n\left[\ket{0}_{n-l}+\ee^{-2\uppi \ii ({0.j_{l-1}\ldots j_0})}\ket{1}_{n-l}\right].
+&{}=\frac{1}{\sqrt{2^n}}\bigotimes_{l=1}^{n}\bigotimes_{+}^{+}\left[\ket{0}_{n-l}+\ee^{-2\uppi \ii ({0.j_{l-1}\ldots j_0})}\ket{1}_{n-l}\right].
 \end{split}
 \]
 

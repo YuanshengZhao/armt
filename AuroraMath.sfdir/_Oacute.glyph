@@ -1,7 +1,9 @@
 StartChar: Oacute
 Encoding: 211 211 743
-Width: 722
+Width: 673
 Flags: MW
+ItalicCorrection: 48
+TopAccentHorizontal: 360
 LayerCount: 2
 Fore
 SplineSet

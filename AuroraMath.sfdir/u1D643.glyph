@@ -1,22 +1,24 @@
 StartChar: u1D643
 Encoding: 120387 120387 1085
-Width: 722
+Width: 713
 Flags: MW
+ItalicCorrection: 103
+TopAccentHorizontal: 467
 LayerCount: 2
 Fore
 SplineSet
-577 331 m 1
- 288 331 l 1
- 218 0 l 1
- 68 0 l 1
- 223 729 l 1
- 373 729 l 1
- 315 456 l 1
- 603 456 l 1
- 661 729 l 1
- 812 729 l 1
- 657 0 l 1
- 507 0 l 1
- 577 331 l 1
+546 331 m 1
+ 257 331 l 1
+ 187 0 l 1
+ 37 0 l 1
+ 192 729 l 1
+ 342 729 l 1
+ 284 456 l 1
+ 572 456 l 1
+ 630 729 l 1
+ 781 729 l 1
+ 626 0 l 1
+ 476 0 l 1
+ 546 331 l 1
 EndSplineSet
 EndChar

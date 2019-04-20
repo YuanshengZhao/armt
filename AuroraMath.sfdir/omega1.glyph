@@ -1,7 +1,9 @@
 StartChar: omega1
 Encoding: 982 982 115
-Width: 684
+Width: 667
 Flags: MW
+ItalicCorrection: 16
+TopAccentHorizontal: 371
 LayerCount: 2
 Fore
 SplineSet

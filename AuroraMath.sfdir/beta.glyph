@@ -1,7 +1,9 @@
 StartChar: beta
 Encoding: 946 946 90
-Width: 534
+Width: 523
 Flags: MW
+ItalicCorrection: 10
+TopAccentHorizontal: 268
 LayerCount: 2
 Fore
 SplineSet

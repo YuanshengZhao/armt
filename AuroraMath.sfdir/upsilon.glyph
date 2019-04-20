@@ -1,7 +1,9 @@
 StartChar: upsilon
 Encoding: 965 965 108
-Width: 534
+Width: 511
 Flags: MW
+ItalicCorrection: 22
+TopAccentHorizontal: 243
 LayerCount: 2
 Fore
 SplineSet

@@ -1,7 +1,9 @@
 StartChar: uni2233
 Encoding: 8755 8755 220
-Width: 728
+Width: 747
 Flags: HMW
+ItalicCorrection: 200
+IsExtendedShape: 1
 GlyphVariantsVertical: uni2233.dp
 LayerCount: 2
 Fore

@@ -2,6 +2,7 @@ StartChar: uni2128
 Encoding: 8488 8488 1484
 Width: 663
 Flags: MW
+TopAccentHorizontal: 325
 LayerCount: 2
 Fore
 SplineSet

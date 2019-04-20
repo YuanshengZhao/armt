@@ -1,7 +1,9 @@
 StartChar: eth
 Encoding: 240 240 336
-Width: 500
+Width: 470
 Flags: MW
+ItalicCorrection: 29
+TopAccentHorizontal: 268
 LayerCount: 2
 Fore
 SplineSet

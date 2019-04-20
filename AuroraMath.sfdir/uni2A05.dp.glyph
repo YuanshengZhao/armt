@@ -2,7 +2,8 @@ StartChar: uni2A05.dp
 Encoding: 1114225 -1 1459
 Width: 1255
 VWidth: 1500
-Flags: MW
+Flags: HMW
+IsExtendedShape: 1
 LayerCount: 2
 Fore
 SplineSet

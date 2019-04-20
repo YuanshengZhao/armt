@@ -2,6 +2,7 @@ StartChar: Euro
 Encoding: 8364 8364 902
 Width: 500
 Flags: MW
+TopAccentHorizontal: 312
 LayerCount: 2
 Fore
 SplineSet

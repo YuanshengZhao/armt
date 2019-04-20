@@ -2,6 +2,7 @@ StartChar: alpha
 Encoding: 945 945 89
 Width: 587
 Flags: MW
+TopAccentHorizontal: 315
 LayerCount: 2
 Fore
 SplineSet

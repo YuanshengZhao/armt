@@ -1,7 +1,9 @@
 StartChar: Edotaccent
 Encoding: 278 278 801
-Width: 611
+Width: 601
 Flags: MW
+ItalicCorrection: 9
+TopAccentHorizontal: 277
 LayerCount: 2
 Fore
 SplineSet

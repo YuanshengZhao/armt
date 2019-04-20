@@ -1,7 +1,9 @@
 StartChar: idieresis
 Encoding: 239 239 770
-Width: 278
+Width: 262
 Flags: MW
+ItalicCorrection: 15
+TopAccentHorizontal: 139
 LayerCount: 2
 Fore
 SplineSet

@@ -1,7 +1,9 @@
 StartChar: u1D597
 Encoding: 120215 120215 614
-Width: 396
+Width: 355
 Flags: MW
+ItalicCorrection: 40
+TopAccentHorizontal: 220
 LayerCount: 2
 Fore
 SplineSet

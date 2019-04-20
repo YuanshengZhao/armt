@@ -3,6 +3,8 @@ Encoding: 10758 10758 1467
 Width: 853
 VWidth: 1500
 Flags: MW
+ItalicCorrection: 200
+IsExtendedShape: 1
 GlyphVariantsVertical: uni2A06.dp
 LayerCount: 2
 Fore

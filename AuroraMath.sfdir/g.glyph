@@ -1,7 +1,8 @@
 StartChar: g
 Encoding: 103 103 371
-Width: 500
+Width: 492
 Flags: MW
+ItalicCorrection: 7
 TopAccentHorizontal: 288
 LayerCount: 2
 Fore

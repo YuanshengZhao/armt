@@ -2,6 +2,7 @@ StartChar: nacute
 Encoding: 324 324 829
 Width: 500
 Flags: MW
+TopAccentHorizontal: 325
 LayerCount: 2
 Fore
 SplineSet
