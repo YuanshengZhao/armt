@@ -2,6 +2,7 @@ StartChar: arrowupdn
 Encoding: 8597 8597 149
 Width: 499
 Flags: MW
+GlyphCompositionVertical: 3  uni2195.bt%0,0,159,478 uni2195.ex%0,324,324,324 uni2195.tp%0,159,0,478
 LayerCount: 2
 Fore
 SplineSet

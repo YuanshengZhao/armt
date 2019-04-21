@@ -2,12 +2,12 @@ StartChar: gravecomb
 Encoding: 768 768 1594
 Width: 333
 VWidth: 1089
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
 242 596 m 1
- 202 596 l 5
+ 202 596 l 1
  48 693 l 2
  30 705 19 720 19 736 c 0
  19 755 32 767 53 767 c 0

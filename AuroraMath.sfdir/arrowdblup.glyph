@@ -1,24 +1,25 @@
 StartChar: arrowdblup
 Encoding: 8657 8657 163
-Width: 964
-Flags: MW
+Width: 550
+Flags: HMW
+GlyphCompositionVertical: 2  uni21D5.ex%1,324,324,324 uni21D5.tp%0,159,0,478
 LayerCount: 2
 Fore
 SplineSet
-902 257 m 1
- 661 5 l 1
- 633 34 l 1
- 709 127 l 1
- 62 127 l 1
- 62 183 l 1
- 757 183 l 1
- 817 256 l 1
- 756 330 l 1
- 62 330 l 1
- 62 386 l 1
- 709 386 l 1
- 633 479 l 1
- 661 510 l 1
- 902 257 l 1
+527 436 m 1
+ 497 408 l 1
+ 404 484 l 1
+ 404 -163 l 1
+ 348 -163 l 1
+ 348 531 l 1
+ 274 592 l 1
+ 201 532 l 1
+ 201 -163 l 1
+ 145 -163 l 1
+ 145 484 l 1
+ 52 408 l 1
+ 23 436 l 1
+ 274 677 l 1
+ 527 436 l 1
 EndSplineSet
 EndChar

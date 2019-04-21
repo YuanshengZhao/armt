@@ -2,6 +2,7 @@ StartChar: backslash
 Encoding: 92 92 307
 Width: 417
 Flags: HMW
+GlyphVariantsVertical: backslash backslash.v1 backslash.v2 backslash.v3 backslash.v4
 LayerCount: 2
 Fore
 SplineSet

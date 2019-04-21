@@ -2,7 +2,7 @@ StartChar: uni23DF
 Encoding: 9183 9183 1448
 Width: 861
 Flags: HMW
-GlyphVariantsHorizontal: uni23DF.h1 uni23DF.h2 uni23DF.h3 uni23DF.h4
+GlyphVariantsHorizontal: uni23DF uni23DF.h1 uni23DF.h2 uni23DF.h3 uni23DF.h4
 GlyphCompositionHorizontal: 6  uni23DF.p1%0,0,50,622 uni23DF.ex%1,200,200,200 uni23DF.p2%0,50,0,622 uni23DF.p3%0,0,50,622 uni23DF.ex%1,200,200,200 uni23DF.p4%0,50,0,622
 LayerCount: 2
 Fore

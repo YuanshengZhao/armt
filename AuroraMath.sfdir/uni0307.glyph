@@ -2,14 +2,14 @@ StartChar: uni0307
 Encoding: 775 775 1599
 Width: 333
 VWidth: 1089
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-166 711 m 0
+166 711 m 4
  194 711 217 688 217 661 c 4
- 217 634 194 612 166 612 c 0
- 139 612 118 634 118 662 c 0
- 118 688 141 711 166 711 c 0
+ 217 634 194 612 166 612 c 4
+ 139 612 118 634 118 662 c 4
+ 118 688 141 711 166 711 c 4
 EndSplineSet
 EndChar

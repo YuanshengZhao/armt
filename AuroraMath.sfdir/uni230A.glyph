@@ -2,7 +2,7 @@ StartChar: uni230A
 Encoding: 8970 8970 281
 Width: 371
 Flags: MW
-GlyphVariantsVertical: uni230A.v1 uni230A.v2 uni230A.v3 uni230A.v4
+GlyphVariantsVertical: uni230A uni230A.v1 uni230A.v2 uni230A.v3 uni230A.v4
 GlyphCompositionVertical: 2  uni23A3%0,0,50,839 uni23A2%1,309,309,309
 LayerCount: 2
 Fore

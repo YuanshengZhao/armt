@@ -1,14 +1,16 @@
 StartChar: uni2215
 Encoding: 8725 8725 179
-Width: 0
-Flags: M
+Width: 457
+Flags: HMW
+IsExtendedShape: 1
+GlyphVariantsVertical: uni2215 slash.v1 slash.v2 slash.v3 slash.v4
 LayerCount: 2
 Fore
 SplineSet
-512 676 m 1
- 178 -162 l 1
- 124 -162 l 1
- 458 676 l 1
- 512 676 l 1
+427 678 m 1
+ 82 -161 l 1
+ 30 -161 l 1
+ 375 678 l 1
+ 427 678 l 1
 EndSplineSet
 EndChar

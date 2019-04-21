@@ -2,6 +2,7 @@ StartChar: product
 Encoding: 8719 8719 174
 Width: 945
 Flags: MW
+IsExtendedShape: 1
 GlyphVariantsVertical: product.dp
 LayerCount: 2
 Fore

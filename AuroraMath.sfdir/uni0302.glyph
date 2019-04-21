@@ -1,19 +1,19 @@
 StartChar: uni0302
 Encoding: 770 770 1593
-Width: 333
+Width: 0
 VWidth: 1089
-Flags: MW
-GlyphVariantsHorizontal: circumflex.h1 circumflex.h2 circumflex.h3
+Flags: HMW
+GlyphVariantsHorizontal: circumflex circumflex.h1 circumflex.h2 circumflex.h3
 LayerCount: 2
 Fore
 SplineSet
-322 596 m 1
- 288 596 l 1
- 166 699 l 1
- 45 596 l 1
- 11 596 l 1
- 135 763 l 1
- 197 763 l 1
- 322 596 l 1
+156 596 m 1
+ 122 596 l 1
+ 0 699 l 1
+ -121 596 l 1
+ -155 596 l 1
+ -31 763 l 1
+ 31 763 l 1
+ 156 596 l 1
 EndSplineSet
 EndChar

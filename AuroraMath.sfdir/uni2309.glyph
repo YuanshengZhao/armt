@@ -2,7 +2,7 @@ StartChar: uni2309
 Encoding: 8969 8969 280
 Width: 371
 Flags: MW
-GlyphVariantsVertical: uni2309.v1 uni2309.v2 uni2309.v3 uni2309.v4
+GlyphVariantsVertical: uni2309 uni2309.v1 uni2309.v2 uni2309.v3 uni2309.v4
 GlyphCompositionVertical: 2  uni23A5%1,309,309,309 uni23A4%0,50,0,839
 LayerCount: 2
 Fore

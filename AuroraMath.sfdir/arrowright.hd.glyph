@@ -1,0 +1,20 @@
+StartChar: arrowright.hd
+Encoding: 1114200 -1 1384
+Width: 840
+Flags: HMW
+IsExtendedShape: 1
+LayerCount: 2
+Fore
+SplineSet
+840 258 m 1
+ 644 52 l 1
+ 613 85 l 1
+ 732 229 l 1
+ 0 229 l 1
+ 0 285 l 1
+ 732 285 l 1
+ 613 429 l 1
+ 644 462 l 1
+ 840 258 l 1
+EndSplineSet
+EndChar

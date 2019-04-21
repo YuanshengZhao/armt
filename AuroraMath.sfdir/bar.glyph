@@ -2,7 +2,7 @@ StartChar: bar
 Encoding: 124 124 309
 Width: 356
 Flags: HMW
-GlyphVariantsVertical: divides.v1 divides.v2 divides.v3 divides.v4
+GlyphVariantsVertical: divides divides.v1 divides.v2 divides.v3 divides.v4
 GlyphCompositionVertical: 1  divides.ex%1,448,448,448
 LayerCount: 2
 Fore

@@ -2,7 +2,7 @@ StartChar: bracketright
 Encoding: 93 93 672
 Width: 333
 Flags: MW
-GlyphVariantsVertical: bracketright.v1 bracketright.v2 bracketright.v3 bracketright.v4
+GlyphVariantsVertical: bracketright bracketright.v1 bracketright.v2 bracketright.v3 bracketright.v4
 GlyphCompositionVertical: 3  uni23A6(⎦)%0,0,50,839 uni23A5(⎥)%1,300,300,300 uni23A4(⎤)%0,50,0,839
 LayerCount: 2
 Fore

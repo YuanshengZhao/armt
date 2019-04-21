@@ -2,7 +2,7 @@ StartChar: parenright
 Encoding: 41 41 652
 Width: 333
 Flags: MW
-GlyphVariantsVertical: parenright.v1 parenright.v2 parenright.v3 parenright.v4
+GlyphVariantsVertical: parenright parenright.v1 parenright.v2 parenright.v3 parenright.v4
 GlyphCompositionVertical: 3  uni23A0%0,0,50,839 uni239F%1,300,300,300 uni239E%0,50,0,839
 LayerCount: 2
 Fore

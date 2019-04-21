@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1555203806
-ModificationTime: 1555782902
+ModificationTime: 1555869004
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -58,7 +58,7 @@ OS2Vendor: 'PfEd'
 Lookup: 3 0 0 "'ssty' Script Style" { "'ssty' Script Style"  } ['ssty' ('DFLT' <'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the GNU General Public License v3.0."
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
 MATH:DelimitedSubFormulaMinHeight: 1300
@@ -117,12 +117,13 @@ MATH:RadicalKernAfterDegree: -355
 MATH:RadicalDegreeBottomRaisePercent: 60
 MATH:MinConnectorOverlap: 26
 Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1112544 72 24
+WinInfo: 0 72 24
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 209715 104858 87381 471859 1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144

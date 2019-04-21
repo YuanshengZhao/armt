@@ -1,7 +1,8 @@
 StartChar: radical.v3
-Encoding: 1114201 -1 1385
+Encoding: 1114207 -1 1391
 Width: 946
 Flags: HMW
+ItalicCorrection: 400
 IsExtendedShape: 1
 LayerCount: 2
 Fore
