@@ -1,15 +1,15 @@
 StartChar: slash.v4
 Encoding: 1114178 -1 1361
-Width: 419
+Width: 479
 Flags: HMW
 IsExtendedShape: 1
 LayerCount: 2
 Fore
 SplineSet
-419 556 m 1
- 69 -1868 l 1
- 0 -1868 l 1
- 350 556 l 1
- 419 556 l 1
+449 556 m 1
+ 99 -1868 l 1
+ 30 -1868 l 1
+ 380 556 l 1
+ 449 556 l 1
 EndSplineSet
 EndChar
