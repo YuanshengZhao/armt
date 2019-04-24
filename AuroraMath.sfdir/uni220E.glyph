@@ -1,0 +1,14 @@
+StartChar: uni220E
+Encoding: 8718 8718 1748
+Width: 638
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+576 0 m 1
+ 62 0 l 1
+ 62 514 l 1
+ 576 514 l 1
+ 576 0 l 1
+EndSplineSet
+EndChar

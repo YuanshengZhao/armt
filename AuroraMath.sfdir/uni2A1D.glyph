@@ -1,0 +1,25 @@
+StartChar: uni2A1D
+Encoding: 10781 10781 1687
+Width: 721
+Flags: MW
+IsExtendedShape: 1
+LayerCount: 2
+Fore
+SplineSet
+659 22 m 1
+ 359 221 l 1
+ 62 22 l 1
+ 62 489 l 1
+ 359 292 l 1
+ 659 489 l 1
+ 659 22 l 1
+598 134 m 1
+ 598 381 l 1
+ 414 257 l 1
+ 598 134 l 1
+306 257 m 1
+ 122 381 l 1
+ 122 134 l 1
+ 306 257 l 1
+EndSplineSet
+EndChar

@@ -1,9 +1,8 @@
 StartChar: uni2035.ssty
-Encoding: 1114269 -1 1638
+Encoding: 1114273 -1 1735
 Width: 355
 VWidth: 1037
-Flags: W
-VStem: 43.8252 259.35
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

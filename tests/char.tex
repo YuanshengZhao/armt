@@ -1,0 +1,13 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage[paperheight=25.2cm,paperwidth=12cm,margin=0cm]{geometry}
+
+\begin{document}
+    \newcount\pgc
+    \pgc=1
+    \loop
+        \includegraphics[page=\pgc]{tb-armt.pdf} \includegraphics[page=\pgc]{tb-txfonts.pdf} \includegraphics[page=\pgc]{tb-xits.pdf} \newpage
+        \advance \pgc 1
+    \ifnum \pgc<44
+    \repeat
+\end{document}

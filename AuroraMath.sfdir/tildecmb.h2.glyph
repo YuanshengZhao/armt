@@ -1,8 +1,7 @@
 StartChar: tildecmb.h2
-Encoding: 1114258 -1 1627
+Encoding: 1114262 -1 1627
 Width: 1000
-Flags: W
-HStem: 610 60<583.52 871.651> 674 59<128.787 413.442>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

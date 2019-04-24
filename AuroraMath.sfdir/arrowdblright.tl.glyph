@@ -1,0 +1,20 @@
+StartChar: arrowdblright.tl
+Encoding: 1114208 -1 1391
+Width: 574
+Flags: HMW
+IsExtendedShape: 1
+LayerCount: 2
+Fore
+SplineSet
+574 330 m 1
+ 62 330 l 1
+ 62 386 l 1
+ 574 386 l 1
+ 574 330 l 1
+574 127 m 1
+ 62 127 l 1
+ 62 183 l 1
+ 574 183 l 1
+ 574 127 l 1
+EndSplineSet
+EndChar

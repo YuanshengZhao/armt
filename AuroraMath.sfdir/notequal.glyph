@@ -1,0 +1,30 @@
+StartChar: notequal
+Encoding: 8800 8800 1653
+Width: 636
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+574 128 m 1
+ 293 128 l 1
+ 222 -52 l 1
+ 168 -52 l 1
+ 239 127 l 1
+ 62 127 l 1
+ 62 183 l 1
+ 262 183 l 1
+ 320 330 l 1
+ 62 330 l 1
+ 62 386 l 1
+ 343 386 l 1
+ 414 566 l 1
+ 468 566 l 1
+ 397 387 l 1
+ 574 387 l 1
+ 574 331 l 1
+ 374 331 l 1
+ 316 184 l 1
+ 574 184 l 1
+ 574 128 l 1
+EndSplineSet
+EndChar

@@ -2,7 +2,7 @@ StartChar: arrowleft
 Encoding: 8592 8592 144
 Width: 964
 Flags: HMW
-GlyphCompositionHorizontal: 2  arrowleft.hd%0,0,280,840 arrowleft.ex%1,512,512,512
+GlyphCompositionHorizontal: 3  arrowleft.hd%0,0,280,840 arrowleft.ex%1,512,512,512 arrowleft.tl%0,512,0,512
 LayerCount: 2
 Fore
 SplineSet

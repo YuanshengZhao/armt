@@ -1,0 +1,8 @@
+\documentclass{article}
+\usepackage{unicode-math}
+\setmathfont{AuroraMath.otf}
+\newcommand{\CMD}[1]{\parbox[c][.3cm][c]{6cm}{\texttt{\detokenize{#1}}}\parbox[c][.3cm][c]{1.2cm}{\ifdefined#1 $#1 {  }$ \else { } \fi}}
+\usepackage[paperheight=25cm,paperwidth=7.5cm,margin=0.1cm]{geometry}
+
+
+\input{./tests/tb.tex}

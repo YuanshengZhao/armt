@@ -1,0 +1,23 @@
+StartChar: u1D768
+Encoding: 120680 120680 1717
+Width: 622
+Flags: MW
+TopAccentHorizontal: 310
+LayerCount: 2
+Fore
+SplineSet
+582 0 m 1
+ 41 0 l 1
+ 41 136 l 1
+ 262 367 l 1
+ 48 586 l 1
+ 48 720 l 1
+ 572 720 l 1
+ 572 601 l 1
+ 228 601 l 1
+ 451 372 l 1
+ 214 120 l 1
+ 582 120 l 1
+ 582 0 l 1
+EndSplineSet
+EndChar

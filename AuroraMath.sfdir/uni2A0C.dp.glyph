@@ -1,7 +1,8 @@
 StartChar: uni2A0C.dp
-Encoding: 1114221 -1 1434
+Encoding: 1114225 -1 1437
 Width: 3001
 Flags: HMW
+ItalicCorrection: 400
 IsExtendedShape: 1
 LayerCount: 2
 Fore

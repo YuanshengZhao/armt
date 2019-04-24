@@ -2,7 +2,7 @@ StartChar: radical
 Encoding: 8730 8730 183
 Width: 703
 Flags: HMW
-GlyphVariantsVertical: radical.v1 radical.v2 radical.v3 radical.v4
+GlyphVariantsVertical: radical radical.v1 radical.v2 radical.v3 radical.v4
 GlyphCompositionVertical: 3  uni23B7(⎷)%0,0,900,2970 radical.ex%1,300,300,300 radical.tp%0,100,0,300
 LayerCount: 2
 Fore

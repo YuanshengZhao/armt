@@ -1,0 +1,20 @@
+StartChar: u1D6C1
+Encoding: 120513 120513 1710
+Width: 552
+Flags: MW
+ItalicCorrection: 166
+TopAccentHorizontal: 358
+LayerCount: 2
+Fore
+SplineSet
+688 677 m 1
+ 388 0 l 1
+ 342 0 l 1
+ 29 677 l 1
+ 688 677 l 1
+545 550 m 1
+ 236 550 l 1
+ 391 216 l 1
+ 545 550 l 1
+EndSplineSet
+EndChar
