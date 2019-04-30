@@ -3,6 +3,7 @@
 /newtx
 /txfonts
 /temp
+__pycache*
 
 *.otf
 *.pdf

@@ -1,11 +1,13 @@
 StartChar: chi
 Encoding: 967 967 98
 Width: 480
-Flags: MW
+Flags: HMW
 TopAccentHorizontal: 222
 LayerCount: 2
 Fore
 SplineSet
+92 480 m 25
+ 354 474 l 1053
 461 -89 m 0
  461 -139 461 -209 393 -209 c 0
  332 -209 310 -105 295 -60 c 2

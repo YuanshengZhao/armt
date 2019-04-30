@@ -1,11 +1,13 @@
 StartChar: dotlessi
 Encoding: 305 305 796
 Width: 278
-Flags: MW
+Flags: HMW
 TopAccentHorizontal: 99
 LayerCount: 2
 Fore
 SplineSet
+87 322 m 25
+ 183 321 l 1053
 175 460 m 1
  179 457 l 1
  179 102 l 2

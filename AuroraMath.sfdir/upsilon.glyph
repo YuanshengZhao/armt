@@ -1,12 +1,14 @@
 StartChar: upsilon
 Encoding: 965 965 96
 Width: 511
-Flags: MW
+Flags: HMW
 ItalicCorrection: 22
 TopAccentHorizontal: 243
 LayerCount: 2
 Fore
 SplineSet
+114 484 m 25
+ 402 488 l 1053
 464 305 m 0
  464 175 438 -10 270 -10 c 0
  172 -10 118 56 118 151 c 0

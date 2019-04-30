@@ -1,11 +1,13 @@
 StartChar: kappa
 Encoding: 954 954 86
 Width: 527
-Flags: MW
+Flags: HMW
 TopAccentHorizontal: 282
 LayerCount: 2
 Fore
 SplineSet
+191 486 m 25
+ 345 440 l 1053
 536 0 m 1
  310 0 l 1
  310 17 l 1

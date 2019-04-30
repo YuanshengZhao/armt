@@ -1,12 +1,14 @@
 StartChar: beta
 Encoding: 946 946 78
 Width: 523
-Flags: MW
+Flags: HMW
 ItalicCorrection: 10
 TopAccentHorizontal: 268
 LayerCount: 2
 Fore
 SplineSet
+263 720 m 25
+ 271 698 l 1053
 492 203 m 0
  492 86 419 -10 296 -10 c 0
  239 -10 180 22 171 83 c 1

@@ -1,12 +1,14 @@
 StartChar: theta1
 Encoding: 977 977 102
 Width: 492
-Flags: MW
+Flags: HMW
 ItalicCorrection: 94
 TopAccentHorizontal: 294
 LayerCount: 2
 Fore
 SplineSet
+276 724 m 25
+ 292 690 l 1053
 569 322 m 1
  545 322 l 1
  545 364 530 407 480 407 c 1

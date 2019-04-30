@@ -1,11 +1,13 @@
 StartChar: eta
 Encoding: 951 951 83
 Width: 534
-Flags: MW
+Flags: HMW
 TopAccentHorizontal: 242
 LayerCount: 2
 Fore
 SplineSet
+198 371 m 25
+ 334 494 l 1053
 475 -224 m 1
  391 -224 l 1
  391 326 l 2

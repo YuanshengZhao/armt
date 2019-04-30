@@ -1,11 +1,13 @@
 StartChar: iota
 Encoding: 953 953 85
 Width: 267
-Flags: MW
+Flags: HMW
 TopAccentHorizontal: 100
 LayerCount: 2
 Fore
 SplineSet
+26 394 m 25
+ 175 378 l 1053
 265 111 m 2
  265 38 241 -10 161 -10 c 0
  84 -10 59 35 59 106 c 2

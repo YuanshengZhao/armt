@@ -1,12 +1,14 @@
 StartChar: rho
 Encoding: 961 961 92
 Width: 516
-Flags: MW
+Flags: HMW
 ItalicCorrection: 17
 TopAccentHorizontal: 269
 LayerCount: 2
 Fore
 SplineSet
+262 475 m 25
+ 270 446 l 1053
 481 233 m 0
  481 100 400 -10 260 -10 c 0
  216 -10 172 5 137 33 c 1

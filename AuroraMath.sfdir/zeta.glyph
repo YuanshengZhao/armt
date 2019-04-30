@@ -1,11 +1,13 @@
 StartChar: zeta
 Encoding: 950 950 82
 Width: 480
-Flags: MW
+Flags: HMW
 TopAccentHorizontal: 209
 LayerCount: 2
 Fore
 SplineSet
+208 682 m 25
+ 343 612 l 1053
 458 -24 m 0
  458 -124 351 -173 264 -173 c 0
  239 -173 197 -169 197 -135 c 0

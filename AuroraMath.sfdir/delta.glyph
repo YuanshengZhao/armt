@@ -1,12 +1,14 @@
 StartChar: delta
 Encoding: 948 948 80
 Width: 516
-Flags: MW
+Flags: HMW
 ItalicCorrection: 17
 TopAccentHorizontal: 228
 LayerCount: 2
 Fore
 SplineSet
+218 728 m 25
+ 237 694 l 1053
 490 228 m 0
  490 96 401 -10 265 -10 c 0
  132 -10 44 90 44 220 c 0

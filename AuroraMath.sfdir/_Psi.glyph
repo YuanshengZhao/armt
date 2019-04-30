@@ -1,12 +1,14 @@
 StartChar: Psi
 Encoding: 936 936 75
 Width: 586
-Flags: MW
+Flags: HMW
 ItalicCorrection: 151
 TopAccentHorizontal: 369
 LayerCount: 2
 Fore
 SplineSet
+216 681 m 25
+ 520 686 l 1053
 727 651 m 1
  657 644 683 458 659 400 c 0
  620 306 507 287 417 284 c 1

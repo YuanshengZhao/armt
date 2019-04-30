@@ -1,9 +1,9 @@
 StartChar: uni0302
-Encoding: 770 770 1589
+Encoding: 770 770 1588
 Width: 0
 VWidth: 1089
 Flags: HMW
-GlyphVariantsHorizontal: circumflex circumflex.h1 circumflex.h2 circumflex.h3
+GlyphVariantsHorizontal: uni0302 circumflex.h1 circumflex.h2 circumflex.h3
 LayerCount: 2
 Fore
 SplineSet

@@ -1,11 +1,13 @@
 StartChar: u1D45B
 Encoding: 119899 119899 460
 Width: 508
-Flags: MW
+Flags: HMW
 TopAccentHorizontal: 251
 LayerCount: 2
 Fore
 SplineSet
+222 438 m 25
+ 382 444 l 1053
 468 117 m 1
  482 104 l 1
  413 12 387 -9 342 -9 c 0

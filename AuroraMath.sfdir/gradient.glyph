@@ -1,12 +1,14 @@
 StartChar: gradient
 Encoding: 8711 8711 172
 Width: 504
-Flags: MW
+Flags: HMW
 ItalicCorrection: 159
 TopAccentHorizontal: 330
 LayerCount: 2
 Fore
 SplineSet
+33 702 m 25
+ 624 692 l 1053
 629 676 m 1
  346 0 l 1
  326 0 l 1

@@ -1,11 +1,13 @@
 StartChar: Q
 Encoding: 81 81 335
 Width: 722
-Flags: MW
+Flags: HMW
 TopAccentHorizontal: 361
 LayerCount: 2
 Fore
 SplineSet
+345 690 m 25
+ 353 662 l 1053
 701 -159 m 1
  701 -177 l 1
  695 -177 l 2

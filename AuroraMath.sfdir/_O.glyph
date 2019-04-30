@@ -2,12 +2,14 @@ StartChar: O
 Encoding: 79 79 333
 AltUni2: 00039f.ffffffff.0
 Width: 673
-Flags: MW
+Flags: HMW
 ItalicCorrection: 48
 TopAccentHorizontal: 360
 LayerCount: 2
 Fore
 SplineSet
+346 694 m 25
+ 354 658 l 1053
 361 676 m 0
  457 676 541 640 604 571 c 0
  659 511 688 426 688 327 c 0

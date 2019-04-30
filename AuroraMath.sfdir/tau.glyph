@@ -1,12 +1,14 @@
 StartChar: tau
 Encoding: 964 964 95
 Width: 394
-Flags: MW
+Flags: HMW
 ItalicCorrection: 31
 TopAccentHorizontal: 219
 LayerCount: 2
 Fore
 SplineSet
+130 316 m 25
+ 274 322 l 1053
 402 468 m 1
  396 362 326 367 243 374 c 1
  243 94 l 2

@@ -7,7 +7,7 @@
 %\usepackage{extarrows}
 
 % \setmainfont{Source Serif Pro}
-\setmainfont{TeX Gyre Termes}[Kerning=Off]%
+\setmainfont{Times New Roman}[Kerning=Off]%
 % [ Path = ../EBGaramond/,
 %   Extension = .otf,
 %   UprightFont = *-Regular,
@@ -20,7 +20,7 @@
 % \setmathfont{TeX Gyre Termes Math}
 % \setmathfont{XITS Math}
 % \setmathfont{TeX Gyre Termes Math}
-\setmathfont{AuroraMath.otf}%[StylisticSet={2,8,9,6},Path=./]
+\setmathfont{AuroraMath.otf}[Path=../Release/]%[StylisticSet={2,8,9,6},Path=./]
 % \setmathfont{Garamond-Mathx.otf}%[StylisticSet={2,8,9,6},Path=./]
 % \newfontfamily\GaramondMath{Garamond-Math.otf}%[StylisticSet={1,7},Path=./]
 % \setmathfont{LibertinusMath-Regular.otf}
@@ -292,40 +292,42 @@ $K[x]T[x]\Theta[x]L[x]E[x]H[x]N[x]Z[x]O[x]A[x]P[x]Q[x]\symup H[x]\langle\vert\ra
         \TOPACCENTMAP{\symnormal}{A}
         \[\widetilde y \tilde y \tilde z \hat U \widehat{U} \hat \psi \widehat{\psi}\]
         \[\widehat{1+2+3+4}+\widetilde{5+6+7+8}\]
-        % \begin{itemize}
-        %   \item Latin capital letters:
-        %     \TOPACCENTMAP{\symnormal}{\Latinalphabets}
-        %   \item Latin small letters:
-        %     \TOPACCENTMAP{\symnormal}{\latinalphabets}
-        %   \item Latin capital upright letters:
-        %     \TOPACCENTMAP{\symup}{\Latinalphabets}
-        %   \item Latin small upright letters:
-        %     \TOPACCENTMAP{\symup}{\latinalphabets}
-        %   \item Latin capital bold letters:
-        %     \TOPACCENTMAP{\symbf}{\Latinalphabets}
-        %   \item Latin small bold letters:
-        %     \TOPACCENTMAP{\symbf}{\latinalphabets}
-        %   \item Latin capital bold upright letters:
-        %     \TOPACCENTMAP{\symbfup}{\Latinalphabets}
-        %   \item Latin small bold upright letters:
-        %     \TOPACCENTMAP{\symbfup}{\latinalphabets}
-        %   \item Greek capital letters:
-        %     \TOPACCENTMAP{\symnormal}{\Greekalphabets}
-        %   \item Greek small letters:
-        %     \TOPACCENTMAP{\symnormal}{\greekalphabets}
-        %   \item Greek capital upright letters:
-        %     \TOPACCENTMAP{\symup}{\Greekalphabets}
-        %   \item Greek small upright letters:
-        %     \TOPACCENTMAP{\symup}{\greekalphabets}
-        %   \item Greek capital bold letters:
-        %     \TOPACCENTMAP{\symbf}{\Greekalphabets}
-        %   \item Greek small bold letters:
-        %     \TOPACCENTMAP{\symbf}{\greekalphabets}
-        %   \item Greek capital bold upright letters:
-        %     \TOPACCENTMAP{\symbfup}{\Greekalphabets}
-        %   \item Greek small bold upright letters:
-        %     \TOPACCENTMAP{\symbfup}{\greekalphabets}
-        % \end{itemize}
+
+        \TOPACCENTMAP{\symnormal}{\Latinalphabets}
+        \TOPACCENTMAP{\symnormal}{\latinalphabets}
+        \TOPACCENTMAP{\symup}{\Latinalphabets}
+        \TOPACCENTMAP{\symup}{\latinalphabets}
+        \TOPACCENTMAP{\symbf}{\Latinalphabets}
+        \TOPACCENTMAP{\symbf}{\latinalphabets}
+        \TOPACCENTMAP{\symbfup}{\Latinalphabets}
+        \TOPACCENTMAP{\symbfup}{\latinalphabets}
+        \TOPACCENTMAP{\symcal}{\Latinalphabets}
+        \TOPACCENTMAP{\symbfcal}{\Latinalphabets}
+        \TOPACCENTMAP{\symbb}{\Latinalphabets}
+        \TOPACCENTMAP{\symfrak}{\Latinalphabets}
+        \TOPACCENTMAP{\symfrak}{\latinalphabets}
+        \TOPACCENTMAP{\symbffrak}{\Latinalphabets}
+        \TOPACCENTMAP{\symbffrak}{\latinalphabets}
+        \TOPACCENTMAP{\symsf}{\Latinalphabets}
+        \TOPACCENTMAP{\symsf}{\latinalphabets}
+        \TOPACCENTMAP{\symsfup}{\Latinalphabets}
+        \TOPACCENTMAP{\symsfup}{\latinalphabets}
+        \TOPACCENTMAP{\symbfsf}{\Latinalphabets}
+        \TOPACCENTMAP{\symbfsf}{\latinalphabets}
+        \TOPACCENTMAP{\symbfsfup}{\Latinalphabets}
+        \TOPACCENTMAP{\symbfsfup}{\latinalphabets}
+        \TOPACCENTMAP{\symtt}{\Latinalphabets}
+        \TOPACCENTMAP{\symtt}{\latinalphabets}
+        
+        \TOPACCENTMAP{\symnormal}{\Greekalphabets}
+        \TOPACCENTMAP{\symnormal}{\greekalphabets}
+        \TOPACCENTMAP{\symup}{\Greekalphabets}
+        \TOPACCENTMAP{\symup}{\greekalphabets}
+        \TOPACCENTMAP{\symbf}{\Greekalphabets}
+        \TOPACCENTMAP{\symbf}{\greekalphabets}
+        \TOPACCENTMAP{\symbfup}{\Greekalphabets}
+        \TOPACCENTMAP{\symbfup}{\greekalphabets}
+        \TOPACCENTMAP{\symbfsfup}{\Greekalphabets}
 
   \item Large operators
   \[\int_0^1\frac{\ln (x+1)}{x}\dd{x}=\int_0^1\sum_{i=1}^{\infty}\frac{(-x)^{i-1}}{i}\dd{x}=\sum_{i=1}^{\infty}\int_0^1\oint\frac{(-x)^{i-1}}{i}\dd{x}=\sum_{i=1}^{\infty}\frac{(-1)^{i+1}}{i^2}=\frac{\uppi^2}{12}\]

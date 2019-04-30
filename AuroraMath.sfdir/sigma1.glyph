@@ -1,12 +1,14 @@
 StartChar: sigma1
 Encoding: 962 962 93
 Width: 421
-Flags: MW
+Flags: HMW
 ItalicCorrection: 51
 TopAccentHorizontal: 293
 LayerCount: 2
 Fore
 SplineSet
+249 428 m 25
+ 322 446 l 1053
 447 387 m 0
  447 356 423 333 392 333 c 0
  344 333 337 418 240 418 c 0

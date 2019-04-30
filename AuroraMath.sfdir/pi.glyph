@@ -1,12 +1,14 @@
 StartChar: pi
 Encoding: 960 960 91
 Width: 582
-Flags: MW
+Flags: HMW
 ItalicCorrection: 4
 TopAccentHorizontal: 317
 LayerCount: 2
 Fore
 SplineSet
+182 399 m 25
+ 422 403 l 1053
 552 470 m 1
  550 371 507 378 427 378 c 1
  427 95 l 2
