@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1555203806
-ModificationTime: 1556600735
+ModificationTime: 1556768769
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -113,7 +113,7 @@ MATH:RadicalDisplayStyleVerticalGap: 150
 MATH:RadicalRuleThickness: 50 
 MATH:RadicalExtraAscender: 50 
 MATH:RadicalKernBeforeDegree: 40 
-MATH:RadicalKernAfterDegree: -355 
+MATH:RadicalKernAfterDegree: -540 
 MATH:RadicalDegreeBottomRaisePercent: 60
 MATH:MinConnectorOverlap: 26
 Encoding: UnicodeFull
@@ -123,7 +123,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1220 10 10
+WinInfo: 1580 20 10
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 209715 104858 87381 471859 1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144

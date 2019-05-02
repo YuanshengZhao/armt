@@ -69,7 +69,7 @@
 \NewDocumentCommand \BRACKETMAP { m m }
   { \[ \exp_args:Nx \tl_map_inline:nn {#2} { \lvert#1{##1}\rvert } \] }
 \NewDocumentCommand \SUPSUBMAP { m m }
-  { \[ \exp_args:Nx \tl_map_inline:nn {#2} {{ #1{##1 \sb{x}} }} \] }
+  { \[ \exp_args:Nx \tl_map_inline:nn {#2} {{ #1{##1 \sb{x}\sp{x}} }} \] }
 \NewDocumentCommand \CIRCLEDNUMA { s }
   {
     % with *:    0-50
@@ -293,41 +293,41 @@ $K[x]T[x]\Theta[x]L[x]E[x]H[x]N[x]Z[x]O[x]A[x]P[x]Q[x]\symup H[x]\langle\vert\ra
         \[\widetilde y \tilde y \tilde z \hat U \widehat{U} \hat \psi \widehat{\psi}\]
         \[\widehat{1+2+3+4}+\widetilde{5+6+7+8}\]
 
-        \TOPACCENTMAP{\symnormal}{\Latinalphabets}
-        \TOPACCENTMAP{\symnormal}{\latinalphabets}
-        \TOPACCENTMAP{\symup}{\Latinalphabets}
-        \TOPACCENTMAP{\symup}{\latinalphabets}
-        \TOPACCENTMAP{\symbf}{\Latinalphabets}
-        \TOPACCENTMAP{\symbf}{\latinalphabets}
-        \TOPACCENTMAP{\symbfup}{\Latinalphabets}
-        \TOPACCENTMAP{\symbfup}{\latinalphabets}
-        \TOPACCENTMAP{\symcal}{\Latinalphabets}
-        \TOPACCENTMAP{\symbfcal}{\Latinalphabets}
-        \TOPACCENTMAP{\symbb}{\Latinalphabets}
-        \TOPACCENTMAP{\symfrak}{\Latinalphabets}
-        \TOPACCENTMAP{\symfrak}{\latinalphabets}
-        \TOPACCENTMAP{\symbffrak}{\Latinalphabets}
-        \TOPACCENTMAP{\symbffrak}{\latinalphabets}
-        \TOPACCENTMAP{\symsf}{\Latinalphabets}
-        \TOPACCENTMAP{\symsf}{\latinalphabets}
-        \TOPACCENTMAP{\symsfup}{\Latinalphabets}
-        \TOPACCENTMAP{\symsfup}{\latinalphabets}
-        \TOPACCENTMAP{\symbfsf}{\Latinalphabets}
-        \TOPACCENTMAP{\symbfsf}{\latinalphabets}
-        \TOPACCENTMAP{\symbfsfup}{\Latinalphabets}
-        \TOPACCENTMAP{\symbfsfup}{\latinalphabets}
-        \TOPACCENTMAP{\symtt}{\Latinalphabets}
-        \TOPACCENTMAP{\symtt}{\latinalphabets}
+        % \TOPACCENTMAP{\symnormal}{\Latinalphabets}
+        % \TOPACCENTMAP{\symnormal}{\latinalphabets}
+        % \TOPACCENTMAP{\symup}{\Latinalphabets}
+        % \TOPACCENTMAP{\symup}{\latinalphabets}
+        % \TOPACCENTMAP{\symbf}{\Latinalphabets}
+        % \TOPACCENTMAP{\symbf}{\latinalphabets}
+        % \TOPACCENTMAP{\symbfup}{\Latinalphabets}
+        % \TOPACCENTMAP{\symbfup}{\latinalphabets}
+        % \TOPACCENTMAP{\symcal}{\Latinalphabets}
+        % \TOPACCENTMAP{\symbfcal}{\Latinalphabets}
+        % \TOPACCENTMAP{\symbb}{\Latinalphabets}
+        % \TOPACCENTMAP{\symfrak}{\Latinalphabets}
+        % \TOPACCENTMAP{\symfrak}{\latinalphabets}
+        % \TOPACCENTMAP{\symbffrak}{\Latinalphabets}
+        % \TOPACCENTMAP{\symbffrak}{\latinalphabets}
+        % \TOPACCENTMAP{\symsf}{\Latinalphabets}
+        % \TOPACCENTMAP{\symsf}{\latinalphabets}
+        % \TOPACCENTMAP{\symsfup}{\Latinalphabets}
+        % \TOPACCENTMAP{\symsfup}{\latinalphabets}
+        % \TOPACCENTMAP{\symbfsf}{\Latinalphabets}
+        % \TOPACCENTMAP{\symbfsf}{\latinalphabets}
+        % \TOPACCENTMAP{\symbfsfup}{\Latinalphabets}
+        % \TOPACCENTMAP{\symbfsfup}{\latinalphabets}
+        % \TOPACCENTMAP{\symtt}{\Latinalphabets}
+        % \TOPACCENTMAP{\symtt}{\latinalphabets}
         
-        \TOPACCENTMAP{\symnormal}{\Greekalphabets}
-        \TOPACCENTMAP{\symnormal}{\greekalphabets}
-        \TOPACCENTMAP{\symup}{\Greekalphabets}
-        \TOPACCENTMAP{\symup}{\greekalphabets}
-        \TOPACCENTMAP{\symbf}{\Greekalphabets}
-        \TOPACCENTMAP{\symbf}{\greekalphabets}
-        \TOPACCENTMAP{\symbfup}{\Greekalphabets}
-        \TOPACCENTMAP{\symbfup}{\greekalphabets}
-        \TOPACCENTMAP{\symbfsfup}{\Greekalphabets}
+        % \TOPACCENTMAP{\symnormal}{\Greekalphabets}
+        % \TOPACCENTMAP{\symnormal}{\greekalphabets}
+        % \TOPACCENTMAP{\symup}{\Greekalphabets}
+        % \TOPACCENTMAP{\symup}{\greekalphabets}
+        % \TOPACCENTMAP{\symbf}{\Greekalphabets}
+        % \TOPACCENTMAP{\symbf}{\greekalphabets}
+        % \TOPACCENTMAP{\symbfup}{\Greekalphabets}
+        % \TOPACCENTMAP{\symbfup}{\greekalphabets}
+        % \TOPACCENTMAP{\symbfsfup}{\Greekalphabets}
 
   \item Large operators
   \[\int_0^1\frac{\ln (x+1)}{x}\dd{x}=\int_0^1\sum_{i=1}^{\infty}\frac{(-x)^{i-1}}{i}\dd{x}=\sum_{i=1}^{\infty}\int_0^1\oint\frac{(-x)^{i-1}}{i}\dd{x}=\sum_{i=1}^{\infty}\frac{(-1)^{i+1}}{i^2}=\frac{\uppi^2}{12}\]
