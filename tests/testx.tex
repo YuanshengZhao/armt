@@ -69,7 +69,7 @@
 \NewDocumentCommand \BRACKETMAP { m m }
   { \[ \exp_args:Nx \tl_map_inline:nn {#2} { \lvert#1{##1}\rvert } \] }
 \NewDocumentCommand \SUPSUBMAP { m m }
-  { \[ \exp_args:Nx \tl_map_inline:nn {#2} {{ #1{##1 \sb{x}\sp{x}} }} \] }
+  { \[ \exp_args:Nx \tl_map_inline:nn {#2} {{ #1{##1 \sb{0}\sp{0}} }} \] }
 \NewDocumentCommand \CIRCLEDNUMA { s }
   {
     % with *:    0-50
@@ -124,7 +124,7 @@
 \begin{document}
 \section{Alphabets \& Metric}
 \delimitershortfall-.0001pt
-$:;\mathcolon\epsilon\symup\epsilon$
+$:;\mathcolon\epsilon\symup\epsilon f^Of^\mathrm{o}f^Qf^0$
 \[\begin{split}
   3.141592653589793238462643383279502884197169399375105820974944592307816406286\\
   208998628034825342117067982148086513282306647093844609550582231725359408128481\\ 117450284102701938521105559644622948954930381964428810975665933446128475648233\\ 786783165271201909145648566923460348610454326648213393607260249141273724587006\\
