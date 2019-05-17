@@ -73,7 +73,7 @@ MATH:SubscriptBaselineDropMin: 150
 MATH:SuperscriptShiftUp: 430 
 MATH:SuperscriptShiftUpCramped: 300 
 MATH:SuperscriptBottomMin: 150 
-MATH:SuperscriptBaselineDropMax: 350 
+MATH:SuperscriptBaselineDropMax: 320 
 MATH:SubSuperscriptGapMin: 250 
 MATH:SuperscriptBottomMaxWithSubscript: 350 
 MATH:SpaceAfterScript: 25 

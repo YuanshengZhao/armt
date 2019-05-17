@@ -12,6 +12,11 @@
             "label": "python",
             "type": "shell",
             "command": "python ${file}"
-        }
+        },
+        {
+            "label": "lualatex",
+            "type": "shell",
+            "command": "lualatex ${file}"
+        },
     ]
 }
